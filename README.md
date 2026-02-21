@@ -20,7 +20,7 @@ By using **Python, Pandas, FastAPI, and Streamlit**, we created a scalable archi
 
 ## 📸 Screenshots
 
-*(Add your screenshots here before submitting! Example format below:)*
+
 
 | 💬 Interactive Offline Chatbot | 📊 Visual Analytics Dashboard |
 | :---: | :---: |
