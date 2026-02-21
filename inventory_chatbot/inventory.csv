@@ -1,0 +1,151 @@
+product_id,product_name,category,current_stock,min_stock_level,last_movement_date,warehouse_name
+P0001,Laptop,Electronics,107,29,2026-01-20,Warehouse North
+P0002,Laptop,Electronics,25,16,2025-11-01,Warehouse South
+P0003,Laptop,Electronics,2,13,2026-01-13,Warehouse East
+P0004,Monitor,Electronics,92,21,2025-11-16,Warehouse North
+P0005,Monitor,Electronics,25,10,2026-02-06,Warehouse South
+P0006,Monitor,Electronics,93,26,2026-01-21,Warehouse East
+P0007,Keyboard,Electronics,19,24,2026-01-29,Warehouse North
+P0008,Keyboard,Electronics,68,12,2026-02-09,Warehouse South
+P0009,Keyboard,Electronics,22,13,2026-01-23,Warehouse East
+P0010,Mouse,Electronics,13,11,2026-02-11,Warehouse North
+P0011,Mouse,Electronics,12,24,2026-01-31,Warehouse South
+P0012,Mouse,Electronics,108,13,2026-02-08,Warehouse East
+P0013,Webcam,Electronics,8,27,2026-02-14,Warehouse North
+P0014,Webcam,Electronics,18,25,2026-01-21,Warehouse South
+P0015,Webcam,Electronics,44,25,2026-01-25,Warehouse East
+P0016,Headphones,Electronics,14,22,2025-11-05,Warehouse North
+P0017,Headphones,Electronics,13,10,2026-01-04,Warehouse South
+P0018,Headphones,Electronics,85,17,2026-02-13,Warehouse East
+P0019,USB Cable,Electronics,45,16,2026-02-17,Warehouse North
+P0020,USB Cable,Electronics,52,14,2026-01-22,Warehouse South
+P0021,USB Cable,Electronics,39,10,2026-02-15,Warehouse East
+P0022,HDMI Cable,Electronics,5,14,2026-02-11,Warehouse North
+P0023,HDMI Cable,Electronics,31,18,2025-10-30,Warehouse South
+P0024,HDMI Cable,Electronics,67,16,2026-02-14,Warehouse East
+P0025,Power Bank,Electronics,147,20,2026-02-11,Warehouse North
+P0026,Power Bank,Electronics,90,11,2026-01-28,Warehouse South
+P0027,Power Bank,Electronics,138,21,2026-02-07,Warehouse East
+P0028,Speaker,Electronics,132,16,2026-01-22,Warehouse North
+P0029,Speaker,Electronics,125,29,2026-02-12,Warehouse South
+P0030,Speaker,Electronics,141,14,2026-01-25,Warehouse East
+P0031,Printer Paper,Office Supplies,364,81,2026-02-01,Warehouse North
+P0032,Printer Paper,Office Supplies,367,98,2026-02-11,Warehouse South
+P0033,Printer Paper,Office Supplies,435,52,2026-02-01,Warehouse East
+P0034,Pens,Office Supplies,236,98,2026-01-26,Warehouse North
+P0035,Pens,Office Supplies,273,82,2026-01-28,Warehouse South
+P0036,Pens,Office Supplies,221,75,2026-02-14,Warehouse East
+P0037,Notebooks,Office Supplies,488,60,2026-02-12,Warehouse North
+P0038,Notebooks,Office Supplies,329,54,2026-02-07,Warehouse South
+P0039,Notebooks,Office Supplies,289,65,2026-02-12,Warehouse East
+P0040,Stapler,Office Supplies,398,52,2026-01-30,Warehouse North
+P0041,Stapler,Office Supplies,395,52,2026-02-11,Warehouse South
+P0042,Stapler,Office Supplies,357,90,2026-01-31,Warehouse East
+P0043,Folders,Office Supplies,409,50,2026-01-31,Warehouse North
+P0044,Folders,Office Supplies,200,80,2026-01-21,Warehouse South
+P0045,Folders,Office Supplies,193,75,2026-02-01,Warehouse East
+P0046,Markers,Office Supplies,11,50,2026-01-22,Warehouse North
+P0047,Markers,Office Supplies,58,90,2026-02-15,Warehouse South
+P0048,Markers,Office Supplies,453,73,2026-01-29,Warehouse East
+P0049,Sticky Notes,Office Supplies,124,98,2026-01-29,Warehouse North
+P0050,Sticky Notes,Office Supplies,303,84,2026-01-24,Warehouse South
+P0051,Sticky Notes,Office Supplies,398,67,2026-01-27,Warehouse East
+P0052,Tape,Office Supplies,212,65,2025-11-08,Warehouse North
+P0053,Tape,Office Supplies,338,63,2026-02-10,Warehouse South
+P0054,Tape,Office Supplies,184,52,2026-02-06,Warehouse East
+P0055,Scissors,Office Supplies,492,71,2026-02-12,Warehouse North
+P0056,Scissors,Office Supplies,279,94,2026-01-22,Warehouse South
+P0057,Scissors,Office Supplies,275,70,2026-02-17,Warehouse East
+P0058,Binders,Office Supplies,366,97,2025-11-27,Warehouse North
+P0059,Binders,Office Supplies,66,93,2026-01-28,Warehouse South
+P0060,Binders,Office Supplies,55,84,2026-01-20,Warehouse East
+P0061,Desk,Furniture,47,7,2026-01-29,Warehouse North
+P0062,Desk,Furniture,22,9,2026-01-31,Warehouse South
+P0063,Desk,Furniture,26,12,2026-02-10,Warehouse East
+P0064,Chair,Furniture,47,10,2026-01-26,Warehouse North
+P0065,Chair,Furniture,3,13,2026-02-10,Warehouse South
+P0066,Chair,Furniture,34,11,2026-01-20,Warehouse East
+P0067,Filing Cabinet,Furniture,43,9,2026-01-25,Warehouse North
+P0068,Filing Cabinet,Furniture,14,14,2026-02-05,Warehouse South
+P0069,Filing Cabinet,Furniture,1,3,2026-02-06,Warehouse East
+P0070,Bookshelf,Furniture,24,14,2026-01-27,Warehouse North
+P0071,Bookshelf,Furniture,26,12,2026-01-23,Warehouse South
+P0072,Bookshelf,Furniture,1,3,2026-02-07,Warehouse East
+P0073,Lamp,Furniture,38,3,2026-02-06,Warehouse North
+P0074,Lamp,Furniture,3,9,2026-02-15,Warehouse South
+P0075,Lamp,Furniture,1,6,2026-01-30,Warehouse East
+P0076,Monitor Stand,Furniture,18,10,2026-01-26,Warehouse North
+P0077,Monitor Stand,Furniture,27,7,2026-01-06,Warehouse South
+P0078,Monitor Stand,Furniture,1,7,2025-12-12,Warehouse East
+P0079,Desk Organizer,Furniture,33,8,2026-01-28,Warehouse North
+P0080,Desk Organizer,Furniture,2,9,2026-01-20,Warehouse South
+P0081,Desk Organizer,Furniture,4,14,2025-11-19,Warehouse East
+P0082,Whiteboard,Furniture,0,14,2026-01-29,Warehouse North
+P0083,Whiteboard,Furniture,9,14,2026-02-11,Warehouse South
+P0084,Whiteboard,Furniture,37,3,2026-01-23,Warehouse East
+P0085,Coat Rack,Furniture,11,8,2026-01-05,Warehouse North
+P0086,Coat Rack,Furniture,20,12,2026-02-05,Warehouse South
+P0087,Coat Rack,Furniture,5,10,2026-01-21,Warehouse East
+P0088,Table,Furniture,33,13,2026-02-15,Warehouse North
+P0089,Table,Furniture,34,3,2026-02-06,Warehouse South
+P0090,Table,Furniture,4,3,2026-02-06,Warehouse East
+P0091,Disinfectant,Cleaning,31,60,2025-12-11,Warehouse North
+P0092,Disinfectant,Cleaning,234,46,2026-02-08,Warehouse South
+P0093,Disinfectant,Cleaning,109,63,2026-01-23,Warehouse East
+P0094,Paper Towels,Cleaning,133,74,2025-12-25,Warehouse North
+P0095,Paper Towels,Cleaning,268,65,2026-02-15,Warehouse South
+P0096,Paper Towels,Cleaning,196,64,2026-02-11,Warehouse East
+P0097,Hand Soap,Cleaning,115,53,2026-02-06,Warehouse North
+P0098,Hand Soap,Cleaning,202,42,2026-02-01,Warehouse South
+P0099,Hand Soap,Cleaning,81,49,2026-01-22,Warehouse East
+P0100,Sanitizer,Cleaning,60,78,2026-02-06,Warehouse North
+P0101,Sanitizer,Cleaning,284,36,2026-01-29,Warehouse South
+P0102,Sanitizer,Cleaning,163,34,2026-01-22,Warehouse East
+P0103,Trash Bags,Cleaning,72,52,2025-11-23,Warehouse North
+P0104,Trash Bags,Cleaning,61,68,2025-12-11,Warehouse South
+P0105,Trash Bags,Cleaning,234,58,2025-10-31,Warehouse East
+P0106,Wipes,Cleaning,28,39,2026-02-12,Warehouse North
+P0107,Wipes,Cleaning,26,75,2025-11-26,Warehouse South
+P0108,Wipes,Cleaning,4,31,2026-02-10,Warehouse East
+P0109,Air Freshener,Cleaning,164,36,2026-02-12,Warehouse North
+P0110,Air Freshener,Cleaning,271,60,2026-02-11,Warehouse South
+P0111,Air Freshener,Cleaning,110,39,2025-11-09,Warehouse East
+P0112,Mop,Cleaning,192,42,2026-01-29,Warehouse North
+P0113,Mop,Cleaning,20,32,2026-01-21,Warehouse South
+P0114,Mop,Cleaning,136,35,2026-02-05,Warehouse East
+P0115,Broom,Cleaning,168,45,2026-02-13,Warehouse North
+P0116,Broom,Cleaning,183,64,2025-11-29,Warehouse South
+P0117,Broom,Cleaning,252,78,2026-01-28,Warehouse East
+P0118,Cleaning Spray,Cleaning,73,32,2026-01-03,Warehouse North
+P0119,Cleaning Spray,Cleaning,243,45,2026-01-21,Warehouse South
+P0120,Cleaning Spray,Cleaning,27,57,2026-01-21,Warehouse East
+P0121,Coffee Maker,Kitchen,59,19,2026-01-27,Warehouse North
+P0122,Coffee Maker,Kitchen,72,31,2026-02-05,Warehouse South
+P0123,Coffee Maker,Kitchen,38,27,2026-01-31,Warehouse East
+P0124,Microwave,Kitchen,78,29,2025-12-16,Warehouse North
+P0125,Microwave,Kitchen,14,37,2026-01-31,Warehouse South
+P0126,Microwave,Kitchen,58,25,2026-01-27,Warehouse East
+P0127,Water Cooler,Kitchen,68,31,2026-02-15,Warehouse North
+P0128,Water Cooler,Kitchen,5,35,2026-02-13,Warehouse South
+P0129,Water Cooler,Kitchen,14,20,2026-01-28,Warehouse East
+P0130,Plates,Kitchen,46,24,2026-02-04,Warehouse North
+P0131,Plates,Kitchen,82,28,2026-02-14,Warehouse South
+P0132,Plates,Kitchen,71,15,2026-01-21,Warehouse East
+P0133,Cups,Kitchen,81,21,2026-01-27,Warehouse North
+P0134,Cups,Kitchen,12,32,2026-02-13,Warehouse South
+P0135,Cups,Kitchen,14,31,2026-02-13,Warehouse East
+P0136,Utensils,Kitchen,94,28,2026-02-12,Warehouse North
+P0137,Utensils,Kitchen,73,16,2026-02-03,Warehouse South
+P0138,Utensils,Kitchen,60,16,2026-01-25,Warehouse East
+P0139,Coffee Pods,Kitchen,88,37,2026-01-20,Warehouse North
+P0140,Coffee Pods,Kitchen,13,24,2026-01-21,Warehouse South
+P0141,Coffee Pods,Kitchen,5,38,2026-02-05,Warehouse East
+P0142,Tea Bags,Kitchen,52,30,2026-01-26,Warehouse North
+P0143,Tea Bags,Kitchen,64,30,2026-01-07,Warehouse South
+P0144,Tea Bags,Kitchen,13,22,2026-02-15,Warehouse East
+P0145,Napkins,Kitchen,36,32,2026-01-28,Warehouse North
+P0146,Napkins,Kitchen,14,32,2025-12-25,Warehouse South
+P0147,Napkins,Kitchen,79,15,2026-02-04,Warehouse East
+P0148,Trash Cans,Kitchen,43,31,2026-02-09,Warehouse North
+P0149,Trash Cans,Kitchen,35,39,2026-01-25,Warehouse South
+P0150,Trash Cans,Kitchen,25,30,2026-02-10,Warehouse East

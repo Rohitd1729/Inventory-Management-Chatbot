@@ -1,0 +1,1594 @@
+product_id,product_name,category,current_stock,min_stock_level,last_movement_date,warehouse_name
+1,Action Figure,Toys,27,8,2026-01-21,Maven Toys Guadalajara 1
+2,Animal Figures,Toys,0,5,2026-02-11,Maven Toys Guadalajara 1
+3,Barrel O' Slime,Art & Crafts,32,9,2026-02-12,Maven Toys Guadalajara 1
+4,Chutes & Ladders,Games,6,5,2026-01-27,Maven Toys Guadalajara 1
+5,Classic Dominoes,Games,0,5,2026-01-26,Maven Toys Guadalajara 1
+6,Colorbuds,Electronics,79,23,2026-02-11,Maven Toys Guadalajara 1
+7,Dart Gun,Sports & Outdoors,5,5,2025-12-29,Maven Toys Guadalajara 1
+8,Deck Of Cards,Games,63,18,2026-01-26,Maven Toys Guadalajara 1
+9,Dino Egg,Toys,12,5,2026-01-14,Maven Toys Guadalajara 1
+10,Dinosaur Figures,Toys,22,6,2026-01-22,Maven Toys Guadalajara 1
+11,Etch A Sketch,Art & Crafts,19,5,2026-02-07,Maven Toys Guadalajara 1
+12,Foam Disk Launcher,Sports & Outdoors,3,5,2026-01-21,Maven Toys Guadalajara 1
+13,Gamer Headphones,Electronics,12,5,2026-02-02,Maven Toys Guadalajara 1
+14,Glass Marbles,Games,3,5,2026-02-09,Maven Toys Guadalajara 1
+15,Hot Wheels 5-Pack,Toys,2,5,2026-01-22,Maven Toys Guadalajara 1
+16,Jenga,Games,8,5,2026-01-20,Maven Toys Guadalajara 1
+17,Kids Makeup Kit,Art & Crafts,7,5,2026-01-20,Maven Toys Guadalajara 1
+18,Lego Bricks,Toys,11,5,2026-01-27,Maven Toys Guadalajara 1
+19,Magic Sand,Art & Crafts,25,7,2025-10-25,Maven Toys Guadalajara 1
+20,Mini Basketball Hoop,Sports & Outdoors,11,5,2026-01-31,Maven Toys Guadalajara 1
+21,Mini Ping Pong Set,Sports & Outdoors,21,6,2026-02-10,Maven Toys Guadalajara 1
+22,Monopoly,Games,2,5,2026-02-15,Maven Toys Guadalajara 1
+23,Mr. Potatohead,Toys,1,5,2025-12-07,Maven Toys Guadalajara 1
+24,Nerf Gun,Sports & Outdoors,9,5,2026-01-11,Maven Toys Guadalajara 1
+25,PlayDoh Can,Art & Crafts,54,16,2026-02-17,Maven Toys Guadalajara 1
+26,PlayDoh Playset,Art & Crafts,13,5,2026-02-04,Maven Toys Guadalajara 1
+27,PlayDoh Toolkit,Art & Crafts,33,9,2026-02-07,Maven Toys Guadalajara 1
+28,Playfoam,Art & Crafts,10,5,2026-02-04,Maven Toys Guadalajara 1
+29,Plush Pony,Toys,4,5,2026-02-02,Maven Toys Guadalajara 1
+30,Rubik's Cube,Games,44,13,2026-02-11,Maven Toys Guadalajara 1
+31,Splash Balls,Sports & Outdoors,7,5,2025-12-21,Maven Toys Guadalajara 1
+32,Supersoaker Water Gun,Sports & Outdoors,4,5,2026-02-09,Maven Toys Guadalajara 1
+33,Teddy Bear,Toys,2,5,2026-01-21,Maven Toys Guadalajara 1
+34,Toy Robot,Electronics,0,5,2025-11-25,Maven Toys Guadalajara 1
+35,Uno Card Game,Games,12,5,2026-02-09,Maven Toys Guadalajara 1
+1,Action Figure,Toys,0,5,2026-01-06,Maven Toys Monterrey 1
+2,Animal Figures,Toys,6,5,2026-01-05,Maven Toys Monterrey 1
+3,Barrel O' Slime,Art & Crafts,18,5,2026-01-27,Maven Toys Monterrey 1
+6,Colorbuds,Electronics,6,5,2026-01-20,Maven Toys Monterrey 1
+7,Dart Gun,Sports & Outdoors,14,5,2026-02-03,Maven Toys Monterrey 1
+8,Deck Of Cards,Games,76,22,2026-01-05,Maven Toys Monterrey 1
+9,Dino Egg,Toys,0,5,2025-12-25,Maven Toys Monterrey 1
+10,Dinosaur Figures,Toys,10,5,2025-10-22,Maven Toys Monterrey 1
+11,Etch A Sketch,Art & Crafts,0,5,2026-02-10,Maven Toys Monterrey 1
+12,Foam Disk Launcher,Sports & Outdoors,2,5,2026-02-06,Maven Toys Monterrey 1
+13,Gamer Headphones,Electronics,3,5,2026-02-12,Maven Toys Monterrey 1
+14,Glass Marbles,Games,21,6,2026-02-18,Maven Toys Monterrey 1
+15,Hot Wheels 5-Pack,Toys,20,6,2026-01-26,Maven Toys Monterrey 1
+17,Kids Makeup Kit,Art & Crafts,12,5,2026-01-31,Maven Toys Monterrey 1
+18,Lego Bricks,Toys,38,11,2026-01-17,Maven Toys Monterrey 1
+19,Magic Sand,Art & Crafts,35,10,2025-12-24,Maven Toys Monterrey 1
+21,Mini Ping Pong Set,Sports & Outdoors,20,6,2026-02-12,Maven Toys Monterrey 1
+23,Mr. Potatohead,Toys,8,5,2026-01-22,Maven Toys Monterrey 1
+24,Nerf Gun,Sports & Outdoors,39,11,2026-01-12,Maven Toys Monterrey 1
+25,PlayDoh Can,Art & Crafts,32,9,2026-02-18,Maven Toys Monterrey 1
+26,PlayDoh Playset,Art & Crafts,12,5,2026-01-27,Maven Toys Monterrey 1
+27,PlayDoh Toolkit,Art & Crafts,30,9,2026-02-14,Maven Toys Monterrey 1
+28,Playfoam,Art & Crafts,2,5,2026-01-12,Maven Toys Monterrey 1
+29,Plush Pony,Toys,5,5,2026-02-16,Maven Toys Monterrey 1
+30,Rubik's Cube,Games,50,15,2026-02-14,Maven Toys Monterrey 1
+31,Splash Balls,Sports & Outdoors,18,5,2025-12-18,Maven Toys Monterrey 1
+32,Supersoaker Water Gun,Sports & Outdoors,10,5,2025-12-25,Maven Toys Monterrey 1
+33,Teddy Bear,Toys,11,5,2026-02-05,Maven Toys Monterrey 1
+34,Toy Robot,Electronics,18,5,2026-02-10,Maven Toys Monterrey 1
+1,Action Figure,Toys,17,5,2025-12-25,Maven Toys Guadalajara 2
+2,Animal Figures,Toys,8,5,2026-02-06,Maven Toys Guadalajara 2
+3,Barrel O' Slime,Art & Crafts,35,10,2026-02-12,Maven Toys Guadalajara 2
+6,Colorbuds,Electronics,21,6,2026-01-21,Maven Toys Guadalajara 2
+7,Dart Gun,Sports & Outdoors,8,5,2026-01-20,Maven Toys Guadalajara 2
+8,Deck Of Cards,Games,44,13,2026-02-12,Maven Toys Guadalajara 2
+9,Dino Egg,Toys,4,5,2026-02-08,Maven Toys Guadalajara 2
+10,Dinosaur Figures,Toys,54,16,2026-02-06,Maven Toys Guadalajara 2
+11,Etch A Sketch,Art & Crafts,13,5,2026-01-23,Maven Toys Guadalajara 2
+12,Foam Disk Launcher,Sports & Outdoors,4,5,2026-01-22,Maven Toys Guadalajara 2
+13,Gamer Headphones,Electronics,8,5,2025-11-06,Maven Toys Guadalajara 2
+14,Glass Marbles,Games,4,5,2026-01-29,Maven Toys Guadalajara 2
+15,Hot Wheels 5-Pack,Toys,0,5,2025-12-23,Maven Toys Guadalajara 2
+17,Kids Makeup Kit,Art & Crafts,1,5,2026-01-30,Maven Toys Guadalajara 2
+18,Lego Bricks,Toys,52,15,2026-01-09,Maven Toys Guadalajara 2
+19,Magic Sand,Art & Crafts,33,9,2026-01-27,Maven Toys Guadalajara 2
+21,Mini Ping Pong Set,Sports & Outdoors,3,5,2026-01-13,Maven Toys Guadalajara 2
+23,Mr. Potatohead,Toys,13,5,2025-12-20,Maven Toys Guadalajara 2
+24,Nerf Gun,Sports & Outdoors,15,5,2026-01-20,Maven Toys Guadalajara 2
+25,PlayDoh Can,Art & Crafts,44,13,2026-02-06,Maven Toys Guadalajara 2
+26,PlayDoh Playset,Art & Crafts,13,5,2026-01-13,Maven Toys Guadalajara 2
+27,PlayDoh Toolkit,Art & Crafts,23,6,2026-01-23,Maven Toys Guadalajara 2
+28,Playfoam,Art & Crafts,10,5,2026-02-14,Maven Toys Guadalajara 2
+29,Plush Pony,Toys,0,5,2026-02-09,Maven Toys Guadalajara 2
+30,Rubik's Cube,Games,43,12,2026-02-04,Maven Toys Guadalajara 2
+31,Splash Balls,Sports & Outdoors,29,8,2026-01-26,Maven Toys Guadalajara 2
+32,Supersoaker Water Gun,Sports & Outdoors,4,5,2026-01-03,Maven Toys Guadalajara 2
+33,Teddy Bear,Toys,4,5,2026-01-24,Maven Toys Guadalajara 2
+34,Toy Robot,Electronics,7,5,2025-11-12,Maven Toys Guadalajara 2
+1,Action Figure,Toys,2,5,2026-02-02,Maven Toys Saltillo 1
+2,Animal Figures,Toys,18,5,2026-01-26,Maven Toys Saltillo 1
+3,Barrel O' Slime,Art & Crafts,6,5,2026-02-02,Maven Toys Saltillo 1
+4,Chutes & Ladders,Games,2,5,2025-11-23,Maven Toys Saltillo 1
+5,Classic Dominoes,Games,14,5,2026-02-14,Maven Toys Saltillo 1
+6,Colorbuds,Electronics,44,13,2026-02-18,Maven Toys Saltillo 1
+7,Dart Gun,Sports & Outdoors,9,5,2026-02-17,Maven Toys Saltillo 1
+8,Deck Of Cards,Games,15,5,2026-01-24,Maven Toys Saltillo 1
+9,Dino Egg,Toys,27,8,2025-11-19,Maven Toys Saltillo 1
+10,Dinosaur Figures,Toys,8,5,2026-01-27,Maven Toys Saltillo 1
+11,Etch A Sketch,Art & Crafts,3,5,2025-12-24,Maven Toys Saltillo 1
+12,Foam Disk Launcher,Sports & Outdoors,7,5,2026-02-13,Maven Toys Saltillo 1
+13,Gamer Headphones,Electronics,4,5,2026-01-30,Maven Toys Saltillo 1
+14,Glass Marbles,Games,4,5,2025-11-29,Maven Toys Saltillo 1
+15,Hot Wheels 5-Pack,Toys,9,5,2026-02-03,Maven Toys Saltillo 1
+16,Jenga,Games,8,5,2026-01-11,Maven Toys Saltillo 1
+17,Kids Makeup Kit,Art & Crafts,2,5,2026-02-13,Maven Toys Saltillo 1
+18,Lego Bricks,Toys,17,5,2026-02-16,Maven Toys Saltillo 1
+19,Magic Sand,Art & Crafts,2,5,2026-01-23,Maven Toys Saltillo 1
+20,Mini Basketball Hoop,Sports & Outdoors,13,5,2026-01-24,Maven Toys Saltillo 1
+21,Mini Ping Pong Set,Sports & Outdoors,24,7,2026-01-31,Maven Toys Saltillo 1
+22,Monopoly,Games,5,5,2026-02-12,Maven Toys Saltillo 1
+23,Mr. Potatohead,Toys,26,7,2026-02-18,Maven Toys Saltillo 1
+24,Nerf Gun,Sports & Outdoors,20,6,2026-02-12,Maven Toys Saltillo 1
+25,PlayDoh Can,Art & Crafts,18,5,2025-12-20,Maven Toys Saltillo 1
+26,PlayDoh Playset,Art & Crafts,10,5,2026-01-25,Maven Toys Saltillo 1
+27,PlayDoh Toolkit,Art & Crafts,19,5,2026-01-27,Maven Toys Saltillo 1
+28,Playfoam,Art & Crafts,6,5,2026-02-09,Maven Toys Saltillo 1
+29,Plush Pony,Toys,20,6,2026-01-22,Maven Toys Saltillo 1
+30,Rubik's Cube,Games,28,8,2026-02-03,Maven Toys Saltillo 1
+31,Splash Balls,Sports & Outdoors,35,10,2026-01-22,Maven Toys Saltillo 1
+32,Supersoaker Water Gun,Sports & Outdoors,6,5,2026-02-18,Maven Toys Saltillo 1
+33,Teddy Bear,Toys,2,5,2026-02-07,Maven Toys Saltillo 1
+34,Toy Robot,Electronics,0,5,2026-01-23,Maven Toys Saltillo 1
+35,Uno Card Game,Games,4,5,2026-02-10,Maven Toys Saltillo 1
+1,Action Figure,Toys,8,5,2026-02-03,Maven Toys La Paz 1
+2,Animal Figures,Toys,14,5,2025-12-31,Maven Toys La Paz 1
+3,Barrel O' Slime,Art & Crafts,3,5,2025-12-27,Maven Toys La Paz 1
+6,Colorbuds,Electronics,12,5,2025-12-31,Maven Toys La Paz 1
+7,Dart Gun,Sports & Outdoors,30,9,2026-02-11,Maven Toys La Paz 1
+8,Deck Of Cards,Games,27,8,2026-01-12,Maven Toys La Paz 1
+9,Dino Egg,Toys,31,9,2026-02-16,Maven Toys La Paz 1
+10,Dinosaur Figures,Toys,39,11,2026-01-25,Maven Toys La Paz 1
+11,Etch A Sketch,Art & Crafts,0,5,2026-01-21,Maven Toys La Paz 1
+12,Foam Disk Launcher,Sports & Outdoors,0,5,2026-02-05,Maven Toys La Paz 1
+13,Gamer Headphones,Electronics,17,5,2026-01-28,Maven Toys La Paz 1
+14,Glass Marbles,Games,14,5,2026-01-21,Maven Toys La Paz 1
+15,Hot Wheels 5-Pack,Toys,0,5,2026-02-18,Maven Toys La Paz 1
+17,Kids Makeup Kit,Art & Crafts,7,5,2026-02-05,Maven Toys La Paz 1
+18,Lego Bricks,Toys,9,5,2026-01-30,Maven Toys La Paz 1
+19,Magic Sand,Art & Crafts,18,5,2026-02-11,Maven Toys La Paz 1
+21,Mini Ping Pong Set,Sports & Outdoors,0,5,2026-01-03,Maven Toys La Paz 1
+23,Mr. Potatohead,Toys,11,5,2026-02-03,Maven Toys La Paz 1
+24,Nerf Gun,Sports & Outdoors,60,18,2026-01-31,Maven Toys La Paz 1
+25,PlayDoh Can,Art & Crafts,9,5,2026-01-28,Maven Toys La Paz 1
+26,PlayDoh Playset,Art & Crafts,4,5,2026-02-13,Maven Toys La Paz 1
+27,PlayDoh Toolkit,Art & Crafts,45,13,2025-10-31,Maven Toys La Paz 1
+28,Playfoam,Art & Crafts,0,5,2025-12-24,Maven Toys La Paz 1
+29,Plush Pony,Toys,8,5,2026-01-29,Maven Toys La Paz 1
+30,Rubik's Cube,Games,39,11,2026-01-22,Maven Toys La Paz 1
+31,Splash Balls,Sports & Outdoors,31,9,2026-02-18,Maven Toys La Paz 1
+32,Supersoaker Water Gun,Sports & Outdoors,10,5,2026-01-21,Maven Toys La Paz 1
+33,Teddy Bear,Toys,17,5,2026-02-15,Maven Toys La Paz 1
+34,Toy Robot,Electronics,10,5,2026-02-02,Maven Toys La Paz 1
+1,Action Figure,Toys,0,5,2026-02-07,Maven Toys Mexicali 1
+2,Animal Figures,Toys,47,14,2025-11-22,Maven Toys Mexicali 1
+3,Barrel O' Slime,Art & Crafts,20,6,2026-02-13,Maven Toys Mexicali 1
+4,Chutes & Ladders,Games,14,5,2026-02-10,Maven Toys Mexicali 1
+5,Classic Dominoes,Games,8,5,2025-11-22,Maven Toys Mexicali 1
+6,Colorbuds,Electronics,32,9,2026-01-29,Maven Toys Mexicali 1
+7,Dart Gun,Sports & Outdoors,18,5,2026-01-22,Maven Toys Mexicali 1
+8,Deck Of Cards,Games,50,15,2025-12-22,Maven Toys Mexicali 1
+9,Dino Egg,Toys,3,5,2026-01-27,Maven Toys Mexicali 1
+10,Dinosaur Figures,Toys,52,15,2026-02-16,Maven Toys Mexicali 1
+11,Etch A Sketch,Art & Crafts,20,6,2026-01-25,Maven Toys Mexicali 1
+12,Foam Disk Launcher,Sports & Outdoors,2,5,2026-01-28,Maven Toys Mexicali 1
+13,Gamer Headphones,Electronics,2,5,2026-02-11,Maven Toys Mexicali 1
+14,Glass Marbles,Games,11,5,2026-02-01,Maven Toys Mexicali 1
+15,Hot Wheels 5-Pack,Toys,11,5,2026-01-28,Maven Toys Mexicali 1
+16,Jenga,Games,10,5,2026-01-23,Maven Toys Mexicali 1
+17,Kids Makeup Kit,Art & Crafts,22,6,2026-01-24,Maven Toys Mexicali 1
+18,Lego Bricks,Toys,11,5,2026-01-19,Maven Toys Mexicali 1
+19,Magic Sand,Art & Crafts,39,11,2026-01-28,Maven Toys Mexicali 1
+20,Mini Basketball Hoop,Sports & Outdoors,9,5,2026-01-21,Maven Toys Mexicali 1
+21,Mini Ping Pong Set,Sports & Outdoors,36,10,2026-01-24,Maven Toys Mexicali 1
+22,Monopoly,Games,5,5,2025-12-26,Maven Toys Mexicali 1
+23,Mr. Potatohead,Toys,15,5,2026-01-22,Maven Toys Mexicali 1
+24,Nerf Gun,Sports & Outdoors,15,5,2026-01-25,Maven Toys Mexicali 1
+25,PlayDoh Can,Art & Crafts,62,18,2026-01-30,Maven Toys Mexicali 1
+26,PlayDoh Playset,Art & Crafts,7,5,2026-02-05,Maven Toys Mexicali 1
+27,PlayDoh Toolkit,Art & Crafts,37,11,2026-01-08,Maven Toys Mexicali 1
+28,Playfoam,Art & Crafts,2,5,2026-01-05,Maven Toys Mexicali 1
+29,Plush Pony,Toys,10,5,2026-02-17,Maven Toys Mexicali 1
+30,Rubik's Cube,Games,67,20,2026-01-28,Maven Toys Mexicali 1
+31,Splash Balls,Sports & Outdoors,17,5,2026-01-24,Maven Toys Mexicali 1
+32,Supersoaker Water Gun,Sports & Outdoors,7,5,2026-01-21,Maven Toys Mexicali 1
+33,Teddy Bear,Toys,7,5,2025-12-25,Maven Toys Mexicali 1
+34,Toy Robot,Electronics,8,5,2026-01-30,Maven Toys Mexicali 1
+35,Uno Card Game,Games,3,5,2026-02-04,Maven Toys Mexicali 1
+1,Action Figure,Toys,14,5,2026-01-22,Maven Toys Monterrey 2
+2,Animal Figures,Toys,7,5,2026-02-11,Maven Toys Monterrey 2
+3,Barrel O' Slime,Art & Crafts,10,5,2026-01-08,Maven Toys Monterrey 2
+4,Chutes & Ladders,Games,17,5,2025-11-12,Maven Toys Monterrey 2
+5,Classic Dominoes,Games,19,5,2026-02-06,Maven Toys Monterrey 2
+6,Colorbuds,Electronics,10,5,2026-01-20,Maven Toys Monterrey 2
+7,Dart Gun,Sports & Outdoors,1,5,2026-01-27,Maven Toys Monterrey 2
+8,Deck Of Cards,Games,46,13,2026-02-03,Maven Toys Monterrey 2
+9,Dino Egg,Toys,0,5,2025-10-22,Maven Toys Monterrey 2
+10,Dinosaur Figures,Toys,36,10,2026-01-01,Maven Toys Monterrey 2
+11,Etch A Sketch,Art & Crafts,7,5,2026-01-01,Maven Toys Monterrey 2
+12,Foam Disk Launcher,Sports & Outdoors,38,11,2026-01-27,Maven Toys Monterrey 2
+13,Gamer Headphones,Electronics,20,6,2026-01-24,Maven Toys Monterrey 2
+14,Glass Marbles,Games,3,5,2025-11-28,Maven Toys Monterrey 2
+15,Hot Wheels 5-Pack,Toys,3,5,2026-02-07,Maven Toys Monterrey 2
+16,Jenga,Games,6,5,2026-01-24,Maven Toys Monterrey 2
+17,Kids Makeup Kit,Art & Crafts,4,5,2025-11-04,Maven Toys Monterrey 2
+18,Lego Bricks,Toys,31,9,2026-01-20,Maven Toys Monterrey 2
+19,Magic Sand,Art & Crafts,24,7,2026-01-25,Maven Toys Monterrey 2
+20,Mini Basketball Hoop,Sports & Outdoors,7,5,2026-01-29,Maven Toys Monterrey 2
+21,Mini Ping Pong Set,Sports & Outdoors,49,14,2026-01-21,Maven Toys Monterrey 2
+22,Monopoly,Games,8,5,2026-01-15,Maven Toys Monterrey 2
+23,Mr. Potatohead,Toys,9,5,2026-01-27,Maven Toys Monterrey 2
+24,Nerf Gun,Sports & Outdoors,25,7,2026-01-24,Maven Toys Monterrey 2
+25,PlayDoh Can,Art & Crafts,10,5,2026-02-14,Maven Toys Monterrey 2
+26,PlayDoh Playset,Art & Crafts,16,5,2026-01-21,Maven Toys Monterrey 2
+27,PlayDoh Toolkit,Art & Crafts,48,14,2026-02-14,Maven Toys Monterrey 2
+28,Playfoam,Art & Crafts,0,5,2026-01-20,Maven Toys Monterrey 2
+29,Plush Pony,Toys,8,5,2025-12-31,Maven Toys Monterrey 2
+30,Rubik's Cube,Games,27,8,2026-02-03,Maven Toys Monterrey 2
+31,Splash Balls,Sports & Outdoors,15,5,2026-02-03,Maven Toys Monterrey 2
+32,Supersoaker Water Gun,Sports & Outdoors,3,5,2026-01-16,Maven Toys Monterrey 2
+33,Teddy Bear,Toys,18,5,2026-01-20,Maven Toys Monterrey 2
+34,Toy Robot,Electronics,2,5,2026-01-24,Maven Toys Monterrey 2
+35,Uno Card Game,Games,17,5,2026-02-14,Maven Toys Monterrey 2
+1,Action Figure,Toys,10,5,2025-12-31,Maven Toys Pachuca 1
+2,Animal Figures,Toys,11,5,2026-01-24,Maven Toys Pachuca 1
+3,Barrel O' Slime,Art & Crafts,8,5,2025-11-19,Maven Toys Pachuca 1
+4,Chutes & Ladders,Games,18,5,2026-01-15,Maven Toys Pachuca 1
+5,Classic Dominoes,Games,10,5,2026-02-03,Maven Toys Pachuca 1
+6,Colorbuds,Electronics,12,5,2026-01-27,Maven Toys Pachuca 1
+7,Dart Gun,Sports & Outdoors,8,5,2025-11-23,Maven Toys Pachuca 1
+8,Deck Of Cards,Games,42,12,2026-01-23,Maven Toys Pachuca 1
+9,Dino Egg,Toys,0,5,2026-01-08,Maven Toys Pachuca 1
+10,Dinosaur Figures,Toys,54,16,2026-01-22,Maven Toys Pachuca 1
+11,Etch A Sketch,Art & Crafts,8,5,2026-01-21,Maven Toys Pachuca 1
+12,Foam Disk Launcher,Sports & Outdoors,4,5,2026-02-14,Maven Toys Pachuca 1
+13,Gamer Headphones,Electronics,0,5,2026-02-18,Maven Toys Pachuca 1
+14,Glass Marbles,Games,0,5,2025-12-11,Maven Toys Pachuca 1
+15,Hot Wheels 5-Pack,Toys,0,5,2026-01-21,Maven Toys Pachuca 1
+16,Jenga,Games,8,5,2026-02-05,Maven Toys Pachuca 1
+17,Kids Makeup Kit,Art & Crafts,5,5,2026-01-31,Maven Toys Pachuca 1
+18,Lego Bricks,Toys,18,5,2026-01-27,Maven Toys Pachuca 1
+19,Magic Sand,Art & Crafts,11,5,2026-02-11,Maven Toys Pachuca 1
+20,Mini Basketball Hoop,Sports & Outdoors,5,5,2026-02-09,Maven Toys Pachuca 1
+21,Mini Ping Pong Set,Sports & Outdoors,37,11,2026-02-17,Maven Toys Pachuca 1
+22,Monopoly,Games,13,5,2026-02-12,Maven Toys Pachuca 1
+23,Mr. Potatohead,Toys,8,5,2026-01-29,Maven Toys Pachuca 1
+24,Nerf Gun,Sports & Outdoors,7,5,2026-02-08,Maven Toys Pachuca 1
+25,PlayDoh Can,Art & Crafts,71,21,2026-01-16,Maven Toys Pachuca 1
+26,PlayDoh Playset,Art & Crafts,20,6,2026-01-21,Maven Toys Pachuca 1
+27,PlayDoh Toolkit,Art & Crafts,47,14,2026-02-09,Maven Toys Pachuca 1
+28,Playfoam,Art & Crafts,20,6,2026-01-26,Maven Toys Pachuca 1
+29,Plush Pony,Toys,3,5,2026-01-03,Maven Toys Pachuca 1
+30,Rubik's Cube,Games,13,5,2026-01-16,Maven Toys Pachuca 1
+31,Splash Balls,Sports & Outdoors,27,8,2026-02-12,Maven Toys Pachuca 1
+32,Supersoaker Water Gun,Sports & Outdoors,7,5,2026-01-27,Maven Toys Pachuca 1
+33,Teddy Bear,Toys,17,5,2025-11-14,Maven Toys Pachuca 1
+34,Toy Robot,Electronics,18,5,2026-01-27,Maven Toys Pachuca 1
+35,Uno Card Game,Games,8,5,2025-12-26,Maven Toys Pachuca 1
+1,Action Figure,Toys,15,5,2026-01-20,Maven Toys Ciudad de Mexico 1
+2,Animal Figures,Toys,18,5,2025-12-01,Maven Toys Ciudad de Mexico 1
+3,Barrel O' Slime,Art & Crafts,10,5,2025-12-29,Maven Toys Ciudad de Mexico 1
+4,Chutes & Ladders,Games,6,5,2026-01-31,Maven Toys Ciudad de Mexico 1
+5,Classic Dominoes,Games,3,5,2026-02-07,Maven Toys Ciudad de Mexico 1
+6,Colorbuds,Electronics,55,16,2025-12-02,Maven Toys Ciudad de Mexico 1
+7,Dart Gun,Sports & Outdoors,22,6,2026-02-12,Maven Toys Ciudad de Mexico 1
+8,Deck Of Cards,Games,29,8,2025-11-20,Maven Toys Ciudad de Mexico 1
+9,Dino Egg,Toys,50,15,2025-12-02,Maven Toys Ciudad de Mexico 1
+10,Dinosaur Figures,Toys,69,20,2026-02-03,Maven Toys Ciudad de Mexico 1
+11,Etch A Sketch,Art & Crafts,1,5,2026-02-16,Maven Toys Ciudad de Mexico 1
+12,Foam Disk Launcher,Sports & Outdoors,6,5,2026-01-30,Maven Toys Ciudad de Mexico 1
+13,Gamer Headphones,Electronics,19,5,2026-02-15,Maven Toys Ciudad de Mexico 1
+14,Glass Marbles,Games,11,5,2025-12-05,Maven Toys Ciudad de Mexico 1
+15,Hot Wheels 5-Pack,Toys,9,5,2026-01-07,Maven Toys Ciudad de Mexico 1
+16,Jenga,Games,5,5,2025-10-24,Maven Toys Ciudad de Mexico 1
+17,Kids Makeup Kit,Art & Crafts,8,5,2026-01-24,Maven Toys Ciudad de Mexico 1
+18,Lego Bricks,Toys,8,5,2026-01-27,Maven Toys Ciudad de Mexico 1
+19,Magic Sand,Art & Crafts,54,16,2026-02-08,Maven Toys Ciudad de Mexico 1
+20,Mini Basketball Hoop,Sports & Outdoors,4,5,2026-02-07,Maven Toys Ciudad de Mexico 1
+21,Mini Ping Pong Set,Sports & Outdoors,12,5,2026-01-24,Maven Toys Ciudad de Mexico 1
+22,Monopoly,Games,9,5,2026-01-21,Maven Toys Ciudad de Mexico 1
+23,Mr. Potatohead,Toys,31,9,2026-01-06,Maven Toys Ciudad de Mexico 1
+24,Nerf Gun,Sports & Outdoors,16,5,2026-01-10,Maven Toys Ciudad de Mexico 1
+25,PlayDoh Can,Art & Crafts,4,5,2026-01-23,Maven Toys Ciudad de Mexico 1
+26,PlayDoh Playset,Art & Crafts,21,6,2026-01-15,Maven Toys Ciudad de Mexico 1
+27,PlayDoh Toolkit,Art & Crafts,29,8,2026-02-13,Maven Toys Ciudad de Mexico 1
+28,Playfoam,Art & Crafts,9,5,2025-11-03,Maven Toys Ciudad de Mexico 1
+29,Plush Pony,Toys,8,5,2025-12-29,Maven Toys Ciudad de Mexico 1
+30,Rubik's Cube,Games,11,5,2026-01-13,Maven Toys Ciudad de Mexico 1
+31,Splash Balls,Sports & Outdoors,6,5,2025-12-17,Maven Toys Ciudad de Mexico 1
+32,Supersoaker Water Gun,Sports & Outdoors,3,5,2026-01-22,Maven Toys Ciudad de Mexico 1
+33,Teddy Bear,Toys,9,5,2026-01-21,Maven Toys Ciudad de Mexico 1
+34,Toy Robot,Electronics,5,5,2026-02-12,Maven Toys Ciudad de Mexico 1
+35,Uno Card Game,Games,4,5,2026-01-24,Maven Toys Ciudad de Mexico 1
+1,Action Figure,Toys,5,5,2026-01-20,Maven Toys Campeche 1
+2,Animal Figures,Toys,17,5,2026-02-06,Maven Toys Campeche 1
+3,Barrel O' Slime,Art & Crafts,15,5,2026-01-20,Maven Toys Campeche 1
+4,Chutes & Ladders,Games,17,5,2026-01-22,Maven Toys Campeche 1
+5,Classic Dominoes,Games,4,5,2026-01-11,Maven Toys Campeche 1
+6,Colorbuds,Electronics,24,7,2026-01-17,Maven Toys Campeche 1
+7,Dart Gun,Sports & Outdoors,13,5,2026-01-20,Maven Toys Campeche 1
+8,Deck Of Cards,Games,73,21,2026-01-22,Maven Toys Campeche 1
+9,Dino Egg,Toys,10,5,2026-01-26,Maven Toys Campeche 1
+10,Dinosaur Figures,Toys,57,17,2026-01-29,Maven Toys Campeche 1
+11,Etch A Sketch,Art & Crafts,9,5,2025-11-07,Maven Toys Campeche 1
+12,Foam Disk Launcher,Sports & Outdoors,15,5,2025-11-06,Maven Toys Campeche 1
+13,Gamer Headphones,Electronics,17,5,2026-01-29,Maven Toys Campeche 1
+14,Glass Marbles,Games,4,5,2026-01-29,Maven Toys Campeche 1
+15,Hot Wheels 5-Pack,Toys,13,5,2025-11-14,Maven Toys Campeche 1
+16,Jenga,Games,1,5,2026-01-31,Maven Toys Campeche 1
+17,Kids Makeup Kit,Art & Crafts,3,5,2025-12-03,Maven Toys Campeche 1
+18,Lego Bricks,Toys,17,5,2026-02-02,Maven Toys Campeche 1
+19,Magic Sand,Art & Crafts,57,17,2026-02-18,Maven Toys Campeche 1
+20,Mini Basketball Hoop,Sports & Outdoors,4,5,2026-01-28,Maven Toys Campeche 1
+21,Mini Ping Pong Set,Sports & Outdoors,16,5,2026-01-27,Maven Toys Campeche 1
+22,Monopoly,Games,13,5,2026-02-07,Maven Toys Campeche 1
+23,Mr. Potatohead,Toys,9,5,2025-12-05,Maven Toys Campeche 1
+24,Nerf Gun,Sports & Outdoors,20,6,2026-01-08,Maven Toys Campeche 1
+25,PlayDoh Can,Art & Crafts,68,20,2026-01-29,Maven Toys Campeche 1
+26,PlayDoh Playset,Art & Crafts,9,5,2026-01-22,Maven Toys Campeche 1
+27,PlayDoh Toolkit,Art & Crafts,24,7,2026-02-11,Maven Toys Campeche 1
+28,Playfoam,Art & Crafts,19,5,2026-02-01,Maven Toys Campeche 1
+29,Plush Pony,Toys,12,5,2026-02-14,Maven Toys Campeche 1
+30,Rubik's Cube,Games,42,12,2025-11-24,Maven Toys Campeche 1
+31,Splash Balls,Sports & Outdoors,7,5,2026-02-02,Maven Toys Campeche 1
+32,Supersoaker Water Gun,Sports & Outdoors,13,5,2026-01-29,Maven Toys Campeche 1
+33,Teddy Bear,Toys,12,5,2025-12-23,Maven Toys Campeche 1
+34,Toy Robot,Electronics,16,5,2026-02-06,Maven Toys Campeche 1
+35,Uno Card Game,Games,2,5,2025-12-15,Maven Toys Campeche 1
+1,Action Figure,Toys,19,5,2025-12-16,Maven Toys Cuernavaca 1
+2,Animal Figures,Toys,18,5,2026-02-17,Maven Toys Cuernavaca 1
+3,Barrel O' Slime,Art & Crafts,18,5,2026-01-20,Maven Toys Cuernavaca 1
+6,Colorbuds,Electronics,32,9,2026-01-07,Maven Toys Cuernavaca 1
+7,Dart Gun,Sports & Outdoors,19,5,2026-01-26,Maven Toys Cuernavaca 1
+8,Deck Of Cards,Games,64,19,2026-02-18,Maven Toys Cuernavaca 1
+9,Dino Egg,Toys,13,5,2026-02-04,Maven Toys Cuernavaca 1
+10,Dinosaur Figures,Toys,17,5,2026-01-29,Maven Toys Cuernavaca 1
+11,Etch A Sketch,Art & Crafts,9,5,2025-12-26,Maven Toys Cuernavaca 1
+12,Foam Disk Launcher,Sports & Outdoors,17,5,2025-11-24,Maven Toys Cuernavaca 1
+13,Gamer Headphones,Electronics,2,5,2026-02-18,Maven Toys Cuernavaca 1
+14,Glass Marbles,Games,18,5,2026-02-16,Maven Toys Cuernavaca 1
+15,Hot Wheels 5-Pack,Toys,7,5,2026-01-29,Maven Toys Cuernavaca 1
+17,Kids Makeup Kit,Art & Crafts,5,5,2026-02-13,Maven Toys Cuernavaca 1
+18,Lego Bricks,Toys,34,10,2026-02-14,Maven Toys Cuernavaca 1
+19,Magic Sand,Art & Crafts,51,15,2025-11-13,Maven Toys Cuernavaca 1
+21,Mini Ping Pong Set,Sports & Outdoors,0,5,2025-11-28,Maven Toys Cuernavaca 1
+23,Mr. Potatohead,Toys,23,6,2026-01-15,Maven Toys Cuernavaca 1
+24,Nerf Gun,Sports & Outdoors,39,11,2026-01-01,Maven Toys Cuernavaca 1
+25,PlayDoh Can,Art & Crafts,70,21,2026-02-05,Maven Toys Cuernavaca 1
+26,PlayDoh Playset,Art & Crafts,10,5,2026-02-18,Maven Toys Cuernavaca 1
+27,PlayDoh Toolkit,Art & Crafts,28,8,2025-12-08,Maven Toys Cuernavaca 1
+28,Playfoam,Art & Crafts,11,5,2026-02-18,Maven Toys Cuernavaca 1
+29,Plush Pony,Toys,4,5,2026-02-17,Maven Toys Cuernavaca 1
+30,Rubik's Cube,Games,10,5,2026-02-11,Maven Toys Cuernavaca 1
+31,Splash Balls,Sports & Outdoors,20,6,2026-01-24,Maven Toys Cuernavaca 1
+32,Supersoaker Water Gun,Sports & Outdoors,4,5,2026-01-28,Maven Toys Cuernavaca 1
+33,Teddy Bear,Toys,6,5,2026-01-02,Maven Toys Cuernavaca 1
+34,Toy Robot,Electronics,9,5,2025-12-29,Maven Toys Cuernavaca 1
+1,Action Figure,Toys,16,5,2025-11-21,Maven Toys Chetumal 1
+2,Animal Figures,Toys,16,5,2025-12-26,Maven Toys Chetumal 1
+3,Barrel O' Slime,Art & Crafts,44,13,2026-02-04,Maven Toys Chetumal 1
+4,Chutes & Ladders,Games,8,5,2026-02-14,Maven Toys Chetumal 1
+5,Classic Dominoes,Games,17,5,2026-02-17,Maven Toys Chetumal 1
+6,Colorbuds,Electronics,23,6,2026-01-13,Maven Toys Chetumal 1
+7,Dart Gun,Sports & Outdoors,11,5,2026-01-22,Maven Toys Chetumal 1
+8,Deck Of Cards,Games,61,18,2025-11-01,Maven Toys Chetumal 1
+9,Dino Egg,Toys,14,5,2026-01-20,Maven Toys Chetumal 1
+10,Dinosaur Figures,Toys,17,5,2026-01-31,Maven Toys Chetumal 1
+11,Etch A Sketch,Art & Crafts,8,5,2025-10-30,Maven Toys Chetumal 1
+12,Foam Disk Launcher,Sports & Outdoors,10,5,2026-02-18,Maven Toys Chetumal 1
+13,Gamer Headphones,Electronics,15,5,2025-12-23,Maven Toys Chetumal 1
+14,Glass Marbles,Games,13,5,2026-02-09,Maven Toys Chetumal 1
+15,Hot Wheels 5-Pack,Toys,11,5,2026-01-15,Maven Toys Chetumal 1
+16,Jenga,Games,14,5,2026-01-10,Maven Toys Chetumal 1
+17,Kids Makeup Kit,Art & Crafts,5,5,2025-12-11,Maven Toys Chetumal 1
+18,Lego Bricks,Toys,20,6,2025-12-31,Maven Toys Chetumal 1
+19,Magic Sand,Art & Crafts,52,15,2026-02-17,Maven Toys Chetumal 1
+20,Mini Basketball Hoop,Sports & Outdoors,15,5,2026-02-17,Maven Toys Chetumal 1
+21,Mini Ping Pong Set,Sports & Outdoors,15,5,2026-02-08,Maven Toys Chetumal 1
+22,Monopoly,Games,4,5,2026-02-08,Maven Toys Chetumal 1
+23,Mr. Potatohead,Toys,15,5,2026-01-25,Maven Toys Chetumal 1
+24,Nerf Gun,Sports & Outdoors,34,10,2026-02-03,Maven Toys Chetumal 1
+25,PlayDoh Can,Art & Crafts,23,6,2026-01-28,Maven Toys Chetumal 1
+26,PlayDoh Playset,Art & Crafts,20,6,2026-02-15,Maven Toys Chetumal 1
+27,PlayDoh Toolkit,Art & Crafts,36,10,2026-01-26,Maven Toys Chetumal 1
+28,Playfoam,Art & Crafts,10,5,2026-02-16,Maven Toys Chetumal 1
+29,Plush Pony,Toys,19,5,2026-02-01,Maven Toys Chetumal 1
+30,Rubik's Cube,Games,45,13,2026-01-31,Maven Toys Chetumal 1
+31,Splash Balls,Sports & Outdoors,13,5,2026-02-14,Maven Toys Chetumal 1
+32,Supersoaker Water Gun,Sports & Outdoors,9,5,2026-02-09,Maven Toys Chetumal 1
+33,Teddy Bear,Toys,5,5,2026-01-29,Maven Toys Chetumal 1
+34,Toy Robot,Electronics,9,5,2026-02-14,Maven Toys Chetumal 1
+35,Uno Card Game,Games,9,5,2026-01-24,Maven Toys Chetumal 1
+1,Action Figure,Toys,0,5,2026-01-03,Maven Toys Mexicali 2
+2,Animal Figures,Toys,2,5,2026-02-06,Maven Toys Mexicali 2
+3,Barrel O' Slime,Art & Crafts,3,5,2026-01-24,Maven Toys Mexicali 2
+6,Colorbuds,Electronics,14,5,2025-12-26,Maven Toys Mexicali 2
+7,Dart Gun,Sports & Outdoors,16,5,2026-01-26,Maven Toys Mexicali 2
+8,Deck Of Cards,Games,66,19,2026-01-04,Maven Toys Mexicali 2
+9,Dino Egg,Toys,0,5,2026-01-24,Maven Toys Mexicali 2
+10,Dinosaur Figures,Toys,84,25,2026-01-12,Maven Toys Mexicali 2
+11,Etch A Sketch,Art & Crafts,0,5,2025-12-22,Maven Toys Mexicali 2
+12,Foam Disk Launcher,Sports & Outdoors,0,5,2025-11-04,Maven Toys Mexicali 2
+13,Gamer Headphones,Electronics,14,5,2026-01-28,Maven Toys Mexicali 2
+14,Glass Marbles,Games,21,6,2026-01-22,Maven Toys Mexicali 2
+15,Hot Wheels 5-Pack,Toys,27,8,2026-01-26,Maven Toys Mexicali 2
+17,Kids Makeup Kit,Art & Crafts,9,5,2025-12-25,Maven Toys Mexicali 2
+18,Lego Bricks,Toys,47,14,2026-01-26,Maven Toys Mexicali 2
+19,Magic Sand,Art & Crafts,49,14,2026-02-16,Maven Toys Mexicali 2
+21,Mini Ping Pong Set,Sports & Outdoors,9,5,2026-01-06,Maven Toys Mexicali 2
+23,Mr. Potatohead,Toys,6,5,2025-12-23,Maven Toys Mexicali 2
+24,Nerf Gun,Sports & Outdoors,24,7,2026-01-24,Maven Toys Mexicali 2
+25,PlayDoh Can,Art & Crafts,37,11,2026-01-31,Maven Toys Mexicali 2
+26,PlayDoh Playset,Art & Crafts,2,5,2026-01-25,Maven Toys Mexicali 2
+27,PlayDoh Toolkit,Art & Crafts,56,16,2025-12-23,Maven Toys Mexicali 2
+28,Playfoam,Art & Crafts,0,5,2026-01-25,Maven Toys Mexicali 2
+29,Plush Pony,Toys,3,5,2025-12-29,Maven Toys Mexicali 2
+30,Rubik's Cube,Games,17,5,2026-02-07,Maven Toys Mexicali 2
+31,Splash Balls,Sports & Outdoors,24,7,2026-02-06,Maven Toys Mexicali 2
+32,Supersoaker Water Gun,Sports & Outdoors,7,5,2026-02-15,Maven Toys Mexicali 2
+33,Teddy Bear,Toys,3,5,2026-02-10,Maven Toys Mexicali 2
+34,Toy Robot,Electronics,3,5,2026-02-04,Maven Toys Mexicali 2
+1,Action Figure,Toys,21,6,2026-01-28,Maven Toys Guanajuato 1
+2,Animal Figures,Toys,5,5,2026-02-11,Maven Toys Guanajuato 1
+3,Barrel O' Slime,Art & Crafts,22,6,2026-02-07,Maven Toys Guanajuato 1
+6,Colorbuds,Electronics,18,5,2026-02-10,Maven Toys Guanajuato 1
+7,Dart Gun,Sports & Outdoors,13,5,2026-01-30,Maven Toys Guanajuato 1
+8,Deck Of Cards,Games,57,17,2026-02-17,Maven Toys Guanajuato 1
+9,Dino Egg,Toys,10,5,2026-01-23,Maven Toys Guanajuato 1
+10,Dinosaur Figures,Toys,32,9,2025-11-14,Maven Toys Guanajuato 1
+11,Etch A Sketch,Art & Crafts,10,5,2025-10-29,Maven Toys Guanajuato 1
+12,Foam Disk Launcher,Sports & Outdoors,2,5,2026-02-13,Maven Toys Guanajuato 1
+13,Gamer Headphones,Electronics,14,5,2026-02-03,Maven Toys Guanajuato 1
+14,Glass Marbles,Games,4,5,2026-02-08,Maven Toys Guanajuato 1
+15,Hot Wheels 5-Pack,Toys,0,5,2026-01-20,Maven Toys Guanajuato 1
+17,Kids Makeup Kit,Art & Crafts,14,5,2026-01-27,Maven Toys Guanajuato 1
+18,Lego Bricks,Toys,7,5,2026-01-17,Maven Toys Guanajuato 1
+19,Magic Sand,Art & Crafts,23,6,2026-02-11,Maven Toys Guanajuato 1
+21,Mini Ping Pong Set,Sports & Outdoors,0,5,2026-01-26,Maven Toys Guanajuato 1
+23,Mr. Potatohead,Toys,4,5,2026-02-17,Maven Toys Guanajuato 1
+24,Nerf Gun,Sports & Outdoors,10,5,2026-02-08,Maven Toys Guanajuato 1
+25,PlayDoh Can,Art & Crafts,15,5,2026-01-14,Maven Toys Guanajuato 1
+26,PlayDoh Playset,Art & Crafts,3,5,2025-11-21,Maven Toys Guanajuato 1
+27,PlayDoh Toolkit,Art & Crafts,34,10,2026-01-31,Maven Toys Guanajuato 1
+28,Playfoam,Art & Crafts,22,6,2026-01-18,Maven Toys Guanajuato 1
+29,Plush Pony,Toys,0,5,2026-02-11,Maven Toys Guanajuato 1
+30,Rubik's Cube,Games,10,5,2026-02-06,Maven Toys Guanajuato 1
+31,Splash Balls,Sports & Outdoors,5,5,2026-01-14,Maven Toys Guanajuato 1
+32,Supersoaker Water Gun,Sports & Outdoors,2,5,2025-12-17,Maven Toys Guanajuato 1
+33,Teddy Bear,Toys,2,5,2026-02-18,Maven Toys Guanajuato 1
+34,Toy Robot,Electronics,8,5,2026-01-08,Maven Toys Guanajuato 1
+1,Action Figure,Toys,24,7,2026-01-24,Maven Toys Tuxtla Gutierrez 1
+2,Animal Figures,Toys,5,5,2026-01-14,Maven Toys Tuxtla Gutierrez 1
+3,Barrel O' Slime,Art & Crafts,3,5,2026-02-08,Maven Toys Tuxtla Gutierrez 1
+6,Colorbuds,Electronics,29,8,2025-12-08,Maven Toys Tuxtla Gutierrez 1
+7,Dart Gun,Sports & Outdoors,10,5,2026-02-18,Maven Toys Tuxtla Gutierrez 1
+8,Deck Of Cards,Games,40,12,2026-01-26,Maven Toys Tuxtla Gutierrez 1
+9,Dino Egg,Toys,26,7,2026-01-27,Maven Toys Tuxtla Gutierrez 1
+10,Dinosaur Figures,Toys,39,11,2026-02-17,Maven Toys Tuxtla Gutierrez 1
+11,Etch A Sketch,Art & Crafts,28,8,2026-02-17,Maven Toys Tuxtla Gutierrez 1
+12,Foam Disk Launcher,Sports & Outdoors,0,5,2026-02-14,Maven Toys Tuxtla Gutierrez 1
+13,Gamer Headphones,Electronics,13,5,2026-02-10,Maven Toys Tuxtla Gutierrez 1
+14,Glass Marbles,Games,20,6,2026-01-26,Maven Toys Tuxtla Gutierrez 1
+15,Hot Wheels 5-Pack,Toys,2,5,2026-02-16,Maven Toys Tuxtla Gutierrez 1
+17,Kids Makeup Kit,Art & Crafts,24,7,2026-02-02,Maven Toys Tuxtla Gutierrez 1
+18,Lego Bricks,Toys,34,10,2025-12-23,Maven Toys Tuxtla Gutierrez 1
+19,Magic Sand,Art & Crafts,63,18,2025-12-07,Maven Toys Tuxtla Gutierrez 1
+21,Mini Ping Pong Set,Sports & Outdoors,12,5,2025-12-10,Maven Toys Tuxtla Gutierrez 1
+23,Mr. Potatohead,Toys,18,5,2025-12-09,Maven Toys Tuxtla Gutierrez 1
+24,Nerf Gun,Sports & Outdoors,35,10,2026-02-18,Maven Toys Tuxtla Gutierrez 1
+25,PlayDoh Can,Art & Crafts,43,12,2025-12-29,Maven Toys Tuxtla Gutierrez 1
+26,PlayDoh Playset,Art & Crafts,17,5,2026-01-21,Maven Toys Tuxtla Gutierrez 1
+27,PlayDoh Toolkit,Art & Crafts,26,7,2026-02-10,Maven Toys Tuxtla Gutierrez 1
+28,Playfoam,Art & Crafts,2,5,2025-12-23,Maven Toys Tuxtla Gutierrez 1
+29,Plush Pony,Toys,13,5,2026-01-29,Maven Toys Tuxtla Gutierrez 1
+30,Rubik's Cube,Games,13,5,2026-01-31,Maven Toys Tuxtla Gutierrez 1
+31,Splash Balls,Sports & Outdoors,4,5,2026-01-24,Maven Toys Tuxtla Gutierrez 1
+32,Supersoaker Water Gun,Sports & Outdoors,16,5,2025-11-26,Maven Toys Tuxtla Gutierrez 1
+33,Teddy Bear,Toys,8,5,2025-12-26,Maven Toys Tuxtla Gutierrez 1
+34,Toy Robot,Electronics,7,5,2026-02-11,Maven Toys Tuxtla Gutierrez 1
+1,Action Figure,Toys,13,5,2026-02-05,Maven Toys San Luis Potosi 1
+2,Animal Figures,Toys,28,8,2025-12-22,Maven Toys San Luis Potosi 1
+3,Barrel O' Slime,Art & Crafts,37,11,2026-01-27,Maven Toys San Luis Potosi 1
+4,Chutes & Ladders,Games,7,5,2026-02-18,Maven Toys San Luis Potosi 1
+5,Classic Dominoes,Games,14,5,2026-02-18,Maven Toys San Luis Potosi 1
+6,Colorbuds,Electronics,27,8,2026-02-17,Maven Toys San Luis Potosi 1
+7,Dart Gun,Sports & Outdoors,19,5,2026-02-11,Maven Toys San Luis Potosi 1
+8,Deck Of Cards,Games,18,5,2026-02-12,Maven Toys San Luis Potosi 1
+9,Dino Egg,Toys,8,5,2026-02-13,Maven Toys San Luis Potosi 1
+10,Dinosaur Figures,Toys,43,12,2026-01-31,Maven Toys San Luis Potosi 1
+11,Etch A Sketch,Art & Crafts,12,5,2026-01-30,Maven Toys San Luis Potosi 1
+12,Foam Disk Launcher,Sports & Outdoors,12,5,2025-12-22,Maven Toys San Luis Potosi 1
+13,Gamer Headphones,Electronics,5,5,2026-01-20,Maven Toys San Luis Potosi 1
+14,Glass Marbles,Games,19,5,2026-01-16,Maven Toys San Luis Potosi 1
+15,Hot Wheels 5-Pack,Toys,1,5,2025-10-25,Maven Toys San Luis Potosi 1
+16,Jenga,Games,14,5,2026-02-14,Maven Toys San Luis Potosi 1
+17,Kids Makeup Kit,Art & Crafts,14,5,2026-01-19,Maven Toys San Luis Potosi 1
+18,Lego Bricks,Toys,27,8,2026-01-28,Maven Toys San Luis Potosi 1
+19,Magic Sand,Art & Crafts,29,8,2026-01-15,Maven Toys San Luis Potosi 1
+20,Mini Basketball Hoop,Sports & Outdoors,2,5,2026-01-19,Maven Toys San Luis Potosi 1
+21,Mini Ping Pong Set,Sports & Outdoors,54,16,2026-02-06,Maven Toys San Luis Potosi 1
+22,Monopoly,Games,9,5,2026-02-15,Maven Toys San Luis Potosi 1
+23,Mr. Potatohead,Toys,2,5,2026-01-30,Maven Toys San Luis Potosi 1
+24,Nerf Gun,Sports & Outdoors,6,5,2026-01-21,Maven Toys San Luis Potosi 1
+25,PlayDoh Can,Art & Crafts,37,11,2026-01-21,Maven Toys San Luis Potosi 1
+26,PlayDoh Playset,Art & Crafts,19,5,2026-02-07,Maven Toys San Luis Potosi 1
+27,PlayDoh Toolkit,Art & Crafts,15,5,2025-12-24,Maven Toys San Luis Potosi 1
+28,Playfoam,Art & Crafts,0,5,2026-01-31,Maven Toys San Luis Potosi 1
+29,Plush Pony,Toys,7,5,2026-01-24,Maven Toys San Luis Potosi 1
+30,Rubik's Cube,Games,49,14,2026-02-14,Maven Toys San Luis Potosi 1
+31,Splash Balls,Sports & Outdoors,14,5,2025-12-21,Maven Toys San Luis Potosi 1
+32,Supersoaker Water Gun,Sports & Outdoors,7,5,2025-11-13,Maven Toys San Luis Potosi 1
+33,Teddy Bear,Toys,6,5,2026-01-27,Maven Toys San Luis Potosi 1
+34,Toy Robot,Electronics,2,5,2026-02-05,Maven Toys San Luis Potosi 1
+35,Uno Card Game,Games,6,5,2026-01-24,Maven Toys San Luis Potosi 1
+1,Action Figure,Toys,22,6,2026-01-20,Maven Toys Toluca 1
+2,Animal Figures,Toys,15,5,2026-02-18,Maven Toys Toluca 1
+3,Barrel O' Slime,Art & Crafts,8,5,2026-01-22,Maven Toys Toluca 1
+6,Colorbuds,Electronics,16,5,2026-02-07,Maven Toys Toluca 1
+7,Dart Gun,Sports & Outdoors,20,6,2026-02-15,Maven Toys Toluca 1
+8,Deck Of Cards,Games,20,6,2026-01-15,Maven Toys Toluca 1
+9,Dino Egg,Toys,7,5,2026-01-10,Maven Toys Toluca 1
+10,Dinosaur Figures,Toys,67,20,2025-12-25,Maven Toys Toluca 1
+11,Etch A Sketch,Art & Crafts,6,5,2026-01-31,Maven Toys Toluca 1
+12,Foam Disk Launcher,Sports & Outdoors,10,5,2026-01-12,Maven Toys Toluca 1
+13,Gamer Headphones,Electronics,16,5,2026-01-09,Maven Toys Toluca 1
+14,Glass Marbles,Games,4,5,2026-02-05,Maven Toys Toluca 1
+15,Hot Wheels 5-Pack,Toys,11,5,2026-01-24,Maven Toys Toluca 1
+17,Kids Makeup Kit,Art & Crafts,27,8,2025-12-29,Maven Toys Toluca 1
+18,Lego Bricks,Toys,27,8,2026-01-19,Maven Toys Toluca 1
+19,Magic Sand,Art & Crafts,53,15,2025-12-28,Maven Toys Toluca 1
+21,Mini Ping Pong Set,Sports & Outdoors,27,8,2026-02-04,Maven Toys Toluca 1
+23,Mr. Potatohead,Toys,13,5,2026-02-10,Maven Toys Toluca 1
+24,Nerf Gun,Sports & Outdoors,27,8,2026-01-10,Maven Toys Toluca 1
+25,PlayDoh Can,Art & Crafts,59,17,2025-12-30,Maven Toys Toluca 1
+26,PlayDoh Playset,Art & Crafts,25,7,2026-02-16,Maven Toys Toluca 1
+27,PlayDoh Toolkit,Art & Crafts,12,5,2026-01-25,Maven Toys Toluca 1
+28,Playfoam,Art & Crafts,3,5,2026-01-14,Maven Toys Toluca 1
+29,Plush Pony,Toys,16,5,2026-02-01,Maven Toys Toluca 1
+30,Rubik's Cube,Games,22,6,2026-01-23,Maven Toys Toluca 1
+31,Splash Balls,Sports & Outdoors,20,6,2026-02-08,Maven Toys Toluca 1
+32,Supersoaker Water Gun,Sports & Outdoors,15,5,2026-01-23,Maven Toys Toluca 1
+33,Teddy Bear,Toys,27,8,2026-01-26,Maven Toys Toluca 1
+34,Toy Robot,Electronics,11,5,2026-01-30,Maven Toys Toluca 1
+1,Action Figure,Toys,1,5,2026-01-26,Maven Toys Merida 1
+2,Animal Figures,Toys,12,5,2026-01-21,Maven Toys Merida 1
+3,Barrel O' Slime,Art & Crafts,64,19,2026-01-28,Maven Toys Merida 1
+4,Chutes & Ladders,Games,10,5,2026-02-01,Maven Toys Merida 1
+5,Classic Dominoes,Games,7,5,2026-02-12,Maven Toys Merida 1
+6,Colorbuds,Electronics,22,6,2025-11-10,Maven Toys Merida 1
+7,Dart Gun,Sports & Outdoors,16,5,2026-01-28,Maven Toys Merida 1
+8,Deck Of Cards,Games,52,15,2025-12-22,Maven Toys Merida 1
+9,Dino Egg,Toys,50,15,2026-02-12,Maven Toys Merida 1
+10,Dinosaur Figures,Toys,16,5,2026-02-06,Maven Toys Merida 1
+11,Etch A Sketch,Art & Crafts,12,5,2026-01-31,Maven Toys Merida 1
+12,Foam Disk Launcher,Sports & Outdoors,3,5,2026-01-31,Maven Toys Merida 1
+13,Gamer Headphones,Electronics,30,9,2026-01-20,Maven Toys Merida 1
+14,Glass Marbles,Games,67,20,2026-02-06,Maven Toys Merida 1
+15,Hot Wheels 5-Pack,Toys,5,5,2026-02-03,Maven Toys Merida 1
+16,Jenga,Games,10,5,2026-02-01,Maven Toys Merida 1
+17,Kids Makeup Kit,Art & Crafts,19,5,2026-01-31,Maven Toys Merida 1
+18,Lego Bricks,Toys,29,8,2026-02-17,Maven Toys Merida 1
+19,Magic Sand,Art & Crafts,15,5,2026-02-02,Maven Toys Merida 1
+20,Mini Basketball Hoop,Sports & Outdoors,3,5,2026-02-13,Maven Toys Merida 1
+21,Mini Ping Pong Set,Sports & Outdoors,29,8,2026-01-16,Maven Toys Merida 1
+22,Monopoly,Games,18,5,2026-01-21,Maven Toys Merida 1
+23,Mr. Potatohead,Toys,16,5,2026-02-16,Maven Toys Merida 1
+24,Nerf Gun,Sports & Outdoors,26,7,2026-02-09,Maven Toys Merida 1
+25,PlayDoh Can,Art & Crafts,74,22,2026-01-18,Maven Toys Merida 1
+26,PlayDoh Playset,Art & Crafts,2,5,2026-01-27,Maven Toys Merida 1
+27,PlayDoh Toolkit,Art & Crafts,40,12,2025-11-19,Maven Toys Merida 1
+28,Playfoam,Art & Crafts,0,5,2025-12-22,Maven Toys Merida 1
+29,Plush Pony,Toys,28,8,2026-01-25,Maven Toys Merida 1
+30,Rubik's Cube,Games,15,5,2026-01-26,Maven Toys Merida 1
+31,Splash Balls,Sports & Outdoors,4,5,2026-01-21,Maven Toys Merida 1
+32,Supersoaker Water Gun,Sports & Outdoors,9,5,2026-01-25,Maven Toys Merida 1
+33,Teddy Bear,Toys,9,5,2026-01-17,Maven Toys Merida 1
+34,Toy Robot,Electronics,8,5,2025-12-23,Maven Toys Merida 1
+35,Uno Card Game,Games,10,5,2026-02-17,Maven Toys Merida 1
+1,Action Figure,Toys,5,5,2025-12-27,Maven Toys Puebla 1
+2,Animal Figures,Toys,14,5,2025-12-27,Maven Toys Puebla 1
+3,Barrel O' Slime,Art & Crafts,7,5,2026-01-04,Maven Toys Puebla 1
+4,Chutes & Ladders,Games,18,5,2026-02-14,Maven Toys Puebla 1
+5,Classic Dominoes,Games,17,5,2026-02-05,Maven Toys Puebla 1
+6,Colorbuds,Electronics,11,5,2026-02-03,Maven Toys Puebla 1
+7,Dart Gun,Sports & Outdoors,16,5,2026-02-09,Maven Toys Puebla 1
+8,Deck Of Cards,Games,84,25,2026-01-27,Maven Toys Puebla 1
+9,Dino Egg,Toys,8,5,2026-01-04,Maven Toys Puebla 1
+10,Dinosaur Figures,Toys,45,13,2026-02-15,Maven Toys Puebla 1
+11,Etch A Sketch,Art & Crafts,0,5,2026-02-01,Maven Toys Puebla 1
+12,Foam Disk Launcher,Sports & Outdoors,3,5,2026-01-05,Maven Toys Puebla 1
+13,Gamer Headphones,Electronics,7,5,2026-02-08,Maven Toys Puebla 1
+14,Glass Marbles,Games,4,5,2026-02-17,Maven Toys Puebla 1
+15,Hot Wheels 5-Pack,Toys,0,5,2026-01-27,Maven Toys Puebla 1
+16,Jenga,Games,2,5,2026-02-14,Maven Toys Puebla 1
+17,Kids Makeup Kit,Art & Crafts,5,5,2026-01-20,Maven Toys Puebla 1
+18,Lego Bricks,Toys,19,5,2026-01-29,Maven Toys Puebla 1
+19,Magic Sand,Art & Crafts,37,11,2026-01-30,Maven Toys Puebla 1
+20,Mini Basketball Hoop,Sports & Outdoors,11,5,2025-11-07,Maven Toys Puebla 1
+21,Mini Ping Pong Set,Sports & Outdoors,24,7,2026-02-09,Maven Toys Puebla 1
+22,Monopoly,Games,3,5,2026-01-23,Maven Toys Puebla 1
+23,Mr. Potatohead,Toys,10,5,2026-01-03,Maven Toys Puebla 1
+24,Nerf Gun,Sports & Outdoors,16,5,2026-02-02,Maven Toys Puebla 1
+25,PlayDoh Can,Art & Crafts,18,5,2026-02-11,Maven Toys Puebla 1
+26,PlayDoh Playset,Art & Crafts,5,5,2026-01-25,Maven Toys Puebla 1
+27,PlayDoh Toolkit,Art & Crafts,27,8,2026-01-28,Maven Toys Puebla 1
+28,Playfoam,Art & Crafts,6,5,2026-02-05,Maven Toys Puebla 1
+29,Plush Pony,Toys,29,8,2025-10-24,Maven Toys Puebla 1
+30,Rubik's Cube,Games,7,5,2025-11-17,Maven Toys Puebla 1
+31,Splash Balls,Sports & Outdoors,4,5,2026-02-08,Maven Toys Puebla 1
+32,Supersoaker Water Gun,Sports & Outdoors,5,5,2025-12-30,Maven Toys Puebla 1
+33,Teddy Bear,Toys,0,5,2026-01-11,Maven Toys Puebla 1
+34,Toy Robot,Electronics,15,5,2026-02-02,Maven Toys Puebla 1
+35,Uno Card Game,Games,14,5,2026-02-13,Maven Toys Puebla 1
+1,Action Figure,Toys,38,11,2025-12-28,Maven Toys Zacatecas 1
+2,Animal Figures,Toys,2,5,2026-01-28,Maven Toys Zacatecas 1
+3,Barrel O' Slime,Art & Crafts,24,7,2026-01-25,Maven Toys Zacatecas 1
+6,Colorbuds,Electronics,4,5,2026-01-23,Maven Toys Zacatecas 1
+7,Dart Gun,Sports & Outdoors,9,5,2026-02-07,Maven Toys Zacatecas 1
+8,Deck Of Cards,Games,26,7,2026-01-29,Maven Toys Zacatecas 1
+9,Dino Egg,Toys,9,5,2026-02-06,Maven Toys Zacatecas 1
+10,Dinosaur Figures,Toys,34,10,2025-12-30,Maven Toys Zacatecas 1
+11,Etch A Sketch,Art & Crafts,3,5,2026-01-24,Maven Toys Zacatecas 1
+12,Foam Disk Launcher,Sports & Outdoors,4,5,2026-02-17,Maven Toys Zacatecas 1
+13,Gamer Headphones,Electronics,11,5,2026-02-08,Maven Toys Zacatecas 1
+14,Glass Marbles,Games,6,5,2026-01-29,Maven Toys Zacatecas 1
+15,Hot Wheels 5-Pack,Toys,36,10,2026-01-24,Maven Toys Zacatecas 1
+17,Kids Makeup Kit,Art & Crafts,23,6,2026-02-08,Maven Toys Zacatecas 1
+18,Lego Bricks,Toys,8,5,2026-02-15,Maven Toys Zacatecas 1
+19,Magic Sand,Art & Crafts,2,5,2026-01-13,Maven Toys Zacatecas 1
+21,Mini Ping Pong Set,Sports & Outdoors,0,5,2026-01-28,Maven Toys Zacatecas 1
+23,Mr. Potatohead,Toys,12,5,2026-02-04,Maven Toys Zacatecas 1
+24,Nerf Gun,Sports & Outdoors,18,5,2025-11-29,Maven Toys Zacatecas 1
+25,PlayDoh Can,Art & Crafts,92,27,2026-01-19,Maven Toys Zacatecas 1
+26,PlayDoh Playset,Art & Crafts,12,5,2026-02-04,Maven Toys Zacatecas 1
+27,PlayDoh Toolkit,Art & Crafts,12,5,2026-02-16,Maven Toys Zacatecas 1
+28,Playfoam,Art & Crafts,3,5,2026-01-03,Maven Toys Zacatecas 1
+29,Plush Pony,Toys,9,5,2026-02-06,Maven Toys Zacatecas 1
+30,Rubik's Cube,Games,17,5,2026-02-10,Maven Toys Zacatecas 1
+31,Splash Balls,Sports & Outdoors,10,5,2025-12-30,Maven Toys Zacatecas 1
+32,Supersoaker Water Gun,Sports & Outdoors,9,5,2026-02-11,Maven Toys Zacatecas 1
+33,Teddy Bear,Toys,28,8,2025-12-26,Maven Toys Zacatecas 1
+34,Toy Robot,Electronics,19,5,2026-01-12,Maven Toys Zacatecas 1
+1,Action Figure,Toys,7,5,2026-02-12,Maven Toys Santiago 1
+2,Animal Figures,Toys,24,7,2026-02-01,Maven Toys Santiago 1
+3,Barrel O' Slime,Art & Crafts,74,22,2026-01-08,Maven Toys Santiago 1
+6,Colorbuds,Electronics,10,5,2025-11-13,Maven Toys Santiago 1
+7,Dart Gun,Sports & Outdoors,8,5,2026-01-31,Maven Toys Santiago 1
+8,Deck Of Cards,Games,11,5,2026-01-23,Maven Toys Santiago 1
+9,Dino Egg,Toys,26,7,2025-12-04,Maven Toys Santiago 1
+10,Dinosaur Figures,Toys,13,5,2025-10-27,Maven Toys Santiago 1
+11,Etch A Sketch,Art & Crafts,11,5,2026-02-07,Maven Toys Santiago 1
+12,Foam Disk Launcher,Sports & Outdoors,21,6,2026-01-26,Maven Toys Santiago 1
+13,Gamer Headphones,Electronics,5,5,2025-12-30,Maven Toys Santiago 1
+14,Glass Marbles,Games,4,5,2026-01-15,Maven Toys Santiago 1
+15,Hot Wheels 5-Pack,Toys,9,5,2026-02-13,Maven Toys Santiago 1
+17,Kids Makeup Kit,Art & Crafts,4,5,2025-12-03,Maven Toys Santiago 1
+18,Lego Bricks,Toys,6,5,2026-02-04,Maven Toys Santiago 1
+19,Magic Sand,Art & Crafts,49,14,2026-02-10,Maven Toys Santiago 1
+21,Mini Ping Pong Set,Sports & Outdoors,14,5,2025-11-04,Maven Toys Santiago 1
+23,Mr. Potatohead,Toys,30,9,2026-02-03,Maven Toys Santiago 1
+24,Nerf Gun,Sports & Outdoors,19,5,2025-11-28,Maven Toys Santiago 1
+25,PlayDoh Can,Art & Crafts,46,13,2026-01-28,Maven Toys Santiago 1
+26,PlayDoh Playset,Art & Crafts,21,6,2025-12-07,Maven Toys Santiago 1
+27,PlayDoh Toolkit,Art & Crafts,54,16,2026-02-12,Maven Toys Santiago 1
+28,Playfoam,Art & Crafts,7,5,2026-02-03,Maven Toys Santiago 1
+29,Plush Pony,Toys,8,5,2026-01-23,Maven Toys Santiago 1
+30,Rubik's Cube,Games,49,14,2025-12-03,Maven Toys Santiago 1
+31,Splash Balls,Sports & Outdoors,19,5,2025-12-31,Maven Toys Santiago 1
+32,Supersoaker Water Gun,Sports & Outdoors,3,5,2026-01-02,Maven Toys Santiago 1
+33,Teddy Bear,Toys,16,5,2026-02-12,Maven Toys Santiago 1
+34,Toy Robot,Electronics,16,5,2026-01-26,Maven Toys Santiago 1
+1,Action Figure,Toys,10,5,2026-01-22,Maven Toys Guanajuato 2
+2,Animal Figures,Toys,25,7,2026-02-16,Maven Toys Guanajuato 2
+3,Barrel O' Slime,Art & Crafts,0,5,2026-02-11,Maven Toys Guanajuato 2
+4,Chutes & Ladders,Games,6,5,2026-01-27,Maven Toys Guanajuato 2
+5,Classic Dominoes,Games,14,5,2026-02-04,Maven Toys Guanajuato 2
+6,Colorbuds,Electronics,8,5,2026-01-16,Maven Toys Guanajuato 2
+7,Dart Gun,Sports & Outdoors,30,9,2025-12-26,Maven Toys Guanajuato 2
+8,Deck Of Cards,Games,71,21,2026-01-19,Maven Toys Guanajuato 2
+9,Dino Egg,Toys,14,5,2026-01-10,Maven Toys Guanajuato 2
+10,Dinosaur Figures,Toys,64,19,2026-01-18,Maven Toys Guanajuato 2
+11,Etch A Sketch,Art & Crafts,7,5,2026-02-09,Maven Toys Guanajuato 2
+12,Foam Disk Launcher,Sports & Outdoors,3,5,2025-10-23,Maven Toys Guanajuato 2
+13,Gamer Headphones,Electronics,19,5,2026-01-07,Maven Toys Guanajuato 2
+14,Glass Marbles,Games,5,5,2026-02-16,Maven Toys Guanajuato 2
+15,Hot Wheels 5-Pack,Toys,0,5,2026-02-05,Maven Toys Guanajuato 2
+16,Jenga,Games,3,5,2026-01-20,Maven Toys Guanajuato 2
+17,Kids Makeup Kit,Art & Crafts,10,5,2026-01-20,Maven Toys Guanajuato 2
+18,Lego Bricks,Toys,13,5,2026-01-25,Maven Toys Guanajuato 2
+19,Magic Sand,Art & Crafts,17,5,2026-02-07,Maven Toys Guanajuato 2
+20,Mini Basketball Hoop,Sports & Outdoors,18,5,2025-12-11,Maven Toys Guanajuato 2
+21,Mini Ping Pong Set,Sports & Outdoors,30,9,2026-02-12,Maven Toys Guanajuato 2
+22,Monopoly,Games,4,5,2026-02-18,Maven Toys Guanajuato 2
+23,Mr. Potatohead,Toys,7,5,2026-02-16,Maven Toys Guanajuato 2
+24,Nerf Gun,Sports & Outdoors,29,8,2026-01-26,Maven Toys Guanajuato 2
+25,PlayDoh Can,Art & Crafts,6,5,2026-02-15,Maven Toys Guanajuato 2
+26,PlayDoh Playset,Art & Crafts,15,5,2026-01-15,Maven Toys Guanajuato 2
+27,PlayDoh Toolkit,Art & Crafts,45,13,2026-02-18,Maven Toys Guanajuato 2
+28,Playfoam,Art & Crafts,0,5,2025-12-06,Maven Toys Guanajuato 2
+29,Plush Pony,Toys,5,5,2026-02-02,Maven Toys Guanajuato 2
+30,Rubik's Cube,Games,22,6,2026-02-15,Maven Toys Guanajuato 2
+31,Splash Balls,Sports & Outdoors,34,10,2026-01-24,Maven Toys Guanajuato 2
+32,Supersoaker Water Gun,Sports & Outdoors,38,11,2026-01-15,Maven Toys Guanajuato 2
+33,Teddy Bear,Toys,8,5,2026-02-13,Maven Toys Guanajuato 2
+34,Toy Robot,Electronics,6,5,2025-11-05,Maven Toys Guanajuato 2
+35,Uno Card Game,Games,2,5,2026-01-20,Maven Toys Guanajuato 2
+1,Action Figure,Toys,4,5,2026-01-25,Maven Toys Chihuahua 1
+2,Animal Figures,Toys,11,5,2026-01-16,Maven Toys Chihuahua 1
+3,Barrel O' Slime,Art & Crafts,5,5,2026-01-30,Maven Toys Chihuahua 1
+4,Chutes & Ladders,Games,3,5,2025-12-29,Maven Toys Chihuahua 1
+5,Classic Dominoes,Games,4,5,2026-02-06,Maven Toys Chihuahua 1
+6,Colorbuds,Electronics,17,5,2026-02-08,Maven Toys Chihuahua 1
+7,Dart Gun,Sports & Outdoors,11,5,2026-01-24,Maven Toys Chihuahua 1
+8,Deck Of Cards,Games,32,9,2026-01-24,Maven Toys Chihuahua 1
+9,Dino Egg,Toys,9,5,2026-01-14,Maven Toys Chihuahua 1
+10,Dinosaur Figures,Toys,35,10,2025-12-29,Maven Toys Chihuahua 1
+11,Etch A Sketch,Art & Crafts,18,5,2025-11-02,Maven Toys Chihuahua 1
+12,Foam Disk Launcher,Sports & Outdoors,14,5,2026-01-30,Maven Toys Chihuahua 1
+13,Gamer Headphones,Electronics,31,9,2025-10-23,Maven Toys Chihuahua 1
+14,Glass Marbles,Games,7,5,2026-02-01,Maven Toys Chihuahua 1
+15,Hot Wheels 5-Pack,Toys,14,5,2026-02-02,Maven Toys Chihuahua 1
+16,Jenga,Games,7,5,2026-02-16,Maven Toys Chihuahua 1
+17,Kids Makeup Kit,Art & Crafts,9,5,2026-01-26,Maven Toys Chihuahua 1
+18,Lego Bricks,Toys,42,12,2025-12-26,Maven Toys Chihuahua 1
+19,Magic Sand,Art & Crafts,27,8,2026-02-05,Maven Toys Chihuahua 1
+20,Mini Basketball Hoop,Sports & Outdoors,2,5,2026-01-09,Maven Toys Chihuahua 1
+21,Mini Ping Pong Set,Sports & Outdoors,30,9,2026-01-17,Maven Toys Chihuahua 1
+22,Monopoly,Games,11,5,2026-01-21,Maven Toys Chihuahua 1
+23,Mr. Potatohead,Toys,8,5,2025-12-26,Maven Toys Chihuahua 1
+24,Nerf Gun,Sports & Outdoors,40,12,2026-01-10,Maven Toys Chihuahua 1
+25,PlayDoh Can,Art & Crafts,38,11,2026-01-12,Maven Toys Chihuahua 1
+26,PlayDoh Playset,Art & Crafts,15,5,2025-12-10,Maven Toys Chihuahua 1
+27,PlayDoh Toolkit,Art & Crafts,7,5,2026-01-26,Maven Toys Chihuahua 1
+28,Playfoam,Art & Crafts,48,14,2026-02-13,Maven Toys Chihuahua 1
+29,Plush Pony,Toys,9,5,2026-02-14,Maven Toys Chihuahua 1
+30,Rubik's Cube,Games,38,11,2026-02-01,Maven Toys Chihuahua 1
+31,Splash Balls,Sports & Outdoors,19,5,2026-01-22,Maven Toys Chihuahua 1
+32,Supersoaker Water Gun,Sports & Outdoors,11,5,2026-01-22,Maven Toys Chihuahua 1
+33,Teddy Bear,Toys,6,5,2026-02-02,Maven Toys Chihuahua 1
+34,Toy Robot,Electronics,18,5,2026-02-06,Maven Toys Chihuahua 1
+35,Uno Card Game,Games,4,5,2026-01-21,Maven Toys Chihuahua 1
+1,Action Figure,Toys,11,5,2025-12-18,Maven Toys Aguascalientes 1
+2,Animal Figures,Toys,25,7,2026-02-17,Maven Toys Aguascalientes 1
+3,Barrel O' Slime,Art & Crafts,13,5,2026-02-06,Maven Toys Aguascalientes 1
+4,Chutes & Ladders,Games,1,5,2026-02-13,Maven Toys Aguascalientes 1
+5,Classic Dominoes,Games,4,5,2026-02-03,Maven Toys Aguascalientes 1
+6,Colorbuds,Electronics,46,13,2026-02-18,Maven Toys Aguascalientes 1
+7,Dart Gun,Sports & Outdoors,15,5,2026-02-03,Maven Toys Aguascalientes 1
+8,Deck Of Cards,Games,53,15,2026-01-09,Maven Toys Aguascalientes 1
+9,Dino Egg,Toys,19,5,2026-01-29,Maven Toys Aguascalientes 1
+10,Dinosaur Figures,Toys,19,5,2026-01-23,Maven Toys Aguascalientes 1
+11,Etch A Sketch,Art & Crafts,13,5,2026-01-13,Maven Toys Aguascalientes 1
+12,Foam Disk Launcher,Sports & Outdoors,0,5,2026-01-07,Maven Toys Aguascalientes 1
+13,Gamer Headphones,Electronics,10,5,2026-01-01,Maven Toys Aguascalientes 1
+14,Glass Marbles,Games,36,10,2026-01-10,Maven Toys Aguascalientes 1
+15,Hot Wheels 5-Pack,Toys,0,5,2026-02-08,Maven Toys Aguascalientes 1
+16,Jenga,Games,3,5,2026-02-12,Maven Toys Aguascalientes 1
+17,Kids Makeup Kit,Art & Crafts,27,8,2026-02-15,Maven Toys Aguascalientes 1
+18,Lego Bricks,Toys,20,6,2026-02-06,Maven Toys Aguascalientes 1
+19,Magic Sand,Art & Crafts,67,20,2026-02-12,Maven Toys Aguascalientes 1
+20,Mini Basketball Hoop,Sports & Outdoors,7,5,2026-02-06,Maven Toys Aguascalientes 1
+21,Mini Ping Pong Set,Sports & Outdoors,0,5,2026-02-02,Maven Toys Aguascalientes 1
+22,Monopoly,Games,13,5,2026-02-11,Maven Toys Aguascalientes 1
+23,Mr. Potatohead,Toys,16,5,2026-01-22,Maven Toys Aguascalientes 1
+24,Nerf Gun,Sports & Outdoors,4,5,2026-02-06,Maven Toys Aguascalientes 1
+25,PlayDoh Can,Art & Crafts,48,14,2026-01-14,Maven Toys Aguascalientes 1
+26,PlayDoh Playset,Art & Crafts,21,6,2026-02-12,Maven Toys Aguascalientes 1
+27,PlayDoh Toolkit,Art & Crafts,50,15,2026-02-17,Maven Toys Aguascalientes 1
+28,Playfoam,Art & Crafts,0,5,2026-01-22,Maven Toys Aguascalientes 1
+29,Plush Pony,Toys,3,5,2026-02-14,Maven Toys Aguascalientes 1
+30,Rubik's Cube,Games,50,15,2026-02-15,Maven Toys Aguascalientes 1
+31,Splash Balls,Sports & Outdoors,10,5,2026-02-15,Maven Toys Aguascalientes 1
+32,Supersoaker Water Gun,Sports & Outdoors,10,5,2026-01-23,Maven Toys Aguascalientes 1
+33,Teddy Bear,Toys,4,5,2026-02-07,Maven Toys Aguascalientes 1
+34,Toy Robot,Electronics,17,5,2026-02-09,Maven Toys Aguascalientes 1
+35,Uno Card Game,Games,19,5,2026-01-28,Maven Toys Aguascalientes 1
+1,Action Figure,Toys,8,5,2026-01-23,Maven Toys Ciudad Victoria 1
+2,Animal Figures,Toys,18,5,2026-01-06,Maven Toys Ciudad Victoria 1
+3,Barrel O' Slime,Art & Crafts,43,12,2025-11-22,Maven Toys Ciudad Victoria 1
+6,Colorbuds,Electronics,3,5,2026-01-23,Maven Toys Ciudad Victoria 1
+7,Dart Gun,Sports & Outdoors,7,5,2026-01-21,Maven Toys Ciudad Victoria 1
+8,Deck Of Cards,Games,66,19,2026-01-21,Maven Toys Ciudad Victoria 1
+9,Dino Egg,Toys,9,5,2026-02-13,Maven Toys Ciudad Victoria 1
+10,Dinosaur Figures,Toys,8,5,2026-01-31,Maven Toys Ciudad Victoria 1
+11,Etch A Sketch,Art & Crafts,3,5,2026-01-27,Maven Toys Ciudad Victoria 1
+12,Foam Disk Launcher,Sports & Outdoors,17,5,2026-02-05,Maven Toys Ciudad Victoria 1
+13,Gamer Headphones,Electronics,23,6,2026-02-15,Maven Toys Ciudad Victoria 1
+14,Glass Marbles,Games,20,6,2026-02-06,Maven Toys Ciudad Victoria 1
+15,Hot Wheels 5-Pack,Toys,13,5,2026-01-05,Maven Toys Ciudad Victoria 1
+17,Kids Makeup Kit,Art & Crafts,4,5,2025-12-22,Maven Toys Ciudad Victoria 1
+18,Lego Bricks,Toys,34,10,2026-02-17,Maven Toys Ciudad Victoria 1
+19,Magic Sand,Art & Crafts,28,8,2025-12-31,Maven Toys Ciudad Victoria 1
+21,Mini Ping Pong Set,Sports & Outdoors,5,5,2026-01-23,Maven Toys Ciudad Victoria 1
+23,Mr. Potatohead,Toys,10,5,2025-12-21,Maven Toys Ciudad Victoria 1
+24,Nerf Gun,Sports & Outdoors,10,5,2026-01-22,Maven Toys Ciudad Victoria 1
+25,PlayDoh Can,Art & Crafts,80,24,2026-01-05,Maven Toys Ciudad Victoria 1
+26,PlayDoh Playset,Art & Crafts,3,5,2026-01-23,Maven Toys Ciudad Victoria 1
+27,PlayDoh Toolkit,Art & Crafts,29,8,2025-12-02,Maven Toys Ciudad Victoria 1
+28,Playfoam,Art & Crafts,16,5,2026-02-16,Maven Toys Ciudad Victoria 1
+29,Plush Pony,Toys,6,5,2026-01-24,Maven Toys Ciudad Victoria 1
+30,Rubik's Cube,Games,46,13,2026-01-05,Maven Toys Ciudad Victoria 1
+31,Splash Balls,Sports & Outdoors,0,5,2026-01-17,Maven Toys Ciudad Victoria 1
+32,Supersoaker Water Gun,Sports & Outdoors,10,5,2026-01-25,Maven Toys Ciudad Victoria 1
+33,Teddy Bear,Toys,4,5,2026-01-02,Maven Toys Ciudad Victoria 1
+34,Toy Robot,Electronics,23,6,2026-01-04,Maven Toys Ciudad Victoria 1
+1,Action Figure,Toys,6,5,2026-01-22,Maven Toys Campeche 2
+2,Animal Figures,Toys,15,5,2026-02-02,Maven Toys Campeche 2
+3,Barrel O' Slime,Art & Crafts,15,5,2026-02-11,Maven Toys Campeche 2
+4,Chutes & Ladders,Games,12,5,2026-01-06,Maven Toys Campeche 2
+5,Classic Dominoes,Games,8,5,2026-02-12,Maven Toys Campeche 2
+6,Colorbuds,Electronics,23,6,2026-02-07,Maven Toys Campeche 2
+7,Dart Gun,Sports & Outdoors,16,5,2026-01-22,Maven Toys Campeche 2
+8,Deck Of Cards,Games,22,6,2025-12-01,Maven Toys Campeche 2
+9,Dino Egg,Toys,15,5,2025-12-26,Maven Toys Campeche 2
+10,Dinosaur Figures,Toys,25,7,2026-02-12,Maven Toys Campeche 2
+11,Etch A Sketch,Art & Crafts,2,5,2026-02-07,Maven Toys Campeche 2
+12,Foam Disk Launcher,Sports & Outdoors,14,5,2026-02-10,Maven Toys Campeche 2
+13,Gamer Headphones,Electronics,20,6,2026-01-25,Maven Toys Campeche 2
+14,Glass Marbles,Games,2,5,2026-01-28,Maven Toys Campeche 2
+15,Hot Wheels 5-Pack,Toys,20,6,2026-01-29,Maven Toys Campeche 2
+16,Jenga,Games,20,6,2026-02-11,Maven Toys Campeche 2
+17,Kids Makeup Kit,Art & Crafts,6,5,2026-02-06,Maven Toys Campeche 2
+18,Lego Bricks,Toys,7,5,2026-01-29,Maven Toys Campeche 2
+19,Magic Sand,Art & Crafts,90,27,2026-02-01,Maven Toys Campeche 2
+20,Mini Basketball Hoop,Sports & Outdoors,6,5,2026-02-13,Maven Toys Campeche 2
+21,Mini Ping Pong Set,Sports & Outdoors,26,7,2026-02-06,Maven Toys Campeche 2
+22,Monopoly,Games,5,5,2025-12-23,Maven Toys Campeche 2
+23,Mr. Potatohead,Toys,4,5,2026-01-12,Maven Toys Campeche 2
+24,Nerf Gun,Sports & Outdoors,11,5,2026-01-01,Maven Toys Campeche 2
+25,PlayDoh Can,Art & Crafts,71,21,2026-02-02,Maven Toys Campeche 2
+26,PlayDoh Playset,Art & Crafts,4,5,2026-02-05,Maven Toys Campeche 2
+27,PlayDoh Toolkit,Art & Crafts,8,5,2026-02-03,Maven Toys Campeche 2
+28,Playfoam,Art & Crafts,26,7,2026-01-22,Maven Toys Campeche 2
+29,Plush Pony,Toys,3,5,2026-01-10,Maven Toys Campeche 2
+30,Rubik's Cube,Games,46,13,2026-01-02,Maven Toys Campeche 2
+31,Splash Balls,Sports & Outdoors,4,5,2026-02-17,Maven Toys Campeche 2
+32,Supersoaker Water Gun,Sports & Outdoors,2,5,2026-02-10,Maven Toys Campeche 2
+33,Teddy Bear,Toys,2,5,2026-02-18,Maven Toys Campeche 2
+34,Toy Robot,Electronics,17,5,2025-12-25,Maven Toys Campeche 2
+35,Uno Card Game,Games,8,5,2026-02-17,Maven Toys Campeche 2
+1,Action Figure,Toys,27,8,2025-11-25,Maven Toys Oaxaca 1
+2,Animal Figures,Toys,30,9,2026-02-01,Maven Toys Oaxaca 1
+3,Barrel O' Slime,Art & Crafts,55,16,2026-01-10,Maven Toys Oaxaca 1
+6,Colorbuds,Electronics,7,5,2026-02-02,Maven Toys Oaxaca 1
+7,Dart Gun,Sports & Outdoors,22,6,2025-12-18,Maven Toys Oaxaca 1
+8,Deck Of Cards,Games,12,5,2026-01-11,Maven Toys Oaxaca 1
+9,Dino Egg,Toys,6,5,2025-11-12,Maven Toys Oaxaca 1
+10,Dinosaur Figures,Toys,45,13,2026-02-10,Maven Toys Oaxaca 1
+11,Etch A Sketch,Art & Crafts,0,5,2026-01-12,Maven Toys Oaxaca 1
+12,Foam Disk Launcher,Sports & Outdoors,5,5,2025-11-23,Maven Toys Oaxaca 1
+13,Gamer Headphones,Electronics,10,5,2025-12-21,Maven Toys Oaxaca 1
+14,Glass Marbles,Games,21,6,2026-02-12,Maven Toys Oaxaca 1
+15,Hot Wheels 5-Pack,Toys,3,5,2026-02-03,Maven Toys Oaxaca 1
+17,Kids Makeup Kit,Art & Crafts,2,5,2026-01-24,Maven Toys Oaxaca 1
+18,Lego Bricks,Toys,18,5,2026-01-17,Maven Toys Oaxaca 1
+19,Magic Sand,Art & Crafts,34,10,2026-01-22,Maven Toys Oaxaca 1
+21,Mini Ping Pong Set,Sports & Outdoors,2,5,2026-01-09,Maven Toys Oaxaca 1
+23,Mr. Potatohead,Toys,16,5,2026-01-08,Maven Toys Oaxaca 1
+24,Nerf Gun,Sports & Outdoors,46,13,2026-02-06,Maven Toys Oaxaca 1
+25,PlayDoh Can,Art & Crafts,18,5,2026-01-31,Maven Toys Oaxaca 1
+26,PlayDoh Playset,Art & Crafts,6,5,2026-01-27,Maven Toys Oaxaca 1
+27,PlayDoh Toolkit,Art & Crafts,11,5,2026-02-06,Maven Toys Oaxaca 1
+28,Playfoam,Art & Crafts,8,5,2026-01-27,Maven Toys Oaxaca 1
+29,Plush Pony,Toys,3,5,2026-01-31,Maven Toys Oaxaca 1
+30,Rubik's Cube,Games,37,11,2026-02-13,Maven Toys Oaxaca 1
+31,Splash Balls,Sports & Outdoors,13,5,2025-12-29,Maven Toys Oaxaca 1
+32,Supersoaker Water Gun,Sports & Outdoors,6,5,2026-01-26,Maven Toys Oaxaca 1
+33,Teddy Bear,Toys,7,5,2025-12-18,Maven Toys Oaxaca 1
+34,Toy Robot,Electronics,9,5,2026-01-31,Maven Toys Oaxaca 1
+1,Action Figure,Toys,6,5,2026-01-21,Maven Toys Puebla 2
+2,Animal Figures,Toys,0,5,2026-02-04,Maven Toys Puebla 2
+3,Barrel O' Slime,Art & Crafts,60,18,2026-02-07,Maven Toys Puebla 2
+6,Colorbuds,Electronics,16,5,2026-01-29,Maven Toys Puebla 2
+7,Dart Gun,Sports & Outdoors,10,5,2025-12-22,Maven Toys Puebla 2
+8,Deck Of Cards,Games,45,13,2026-01-15,Maven Toys Puebla 2
+9,Dino Egg,Toys,7,5,2026-02-07,Maven Toys Puebla 2
+10,Dinosaur Figures,Toys,8,5,2025-12-23,Maven Toys Puebla 2
+11,Etch A Sketch,Art & Crafts,4,5,2026-02-02,Maven Toys Puebla 2
+12,Foam Disk Launcher,Sports & Outdoors,4,5,2026-02-10,Maven Toys Puebla 2
+13,Gamer Headphones,Electronics,2,5,2026-01-29,Maven Toys Puebla 2
+14,Glass Marbles,Games,17,5,2026-02-15,Maven Toys Puebla 2
+15,Hot Wheels 5-Pack,Toys,0,5,2026-01-18,Maven Toys Puebla 2
+17,Kids Makeup Kit,Art & Crafts,17,5,2026-01-13,Maven Toys Puebla 2
+18,Lego Bricks,Toys,24,7,2026-01-31,Maven Toys Puebla 2
+19,Magic Sand,Art & Crafts,13,5,2026-01-21,Maven Toys Puebla 2
+21,Mini Ping Pong Set,Sports & Outdoors,11,5,2026-02-06,Maven Toys Puebla 2
+23,Mr. Potatohead,Toys,24,7,2026-01-29,Maven Toys Puebla 2
+24,Nerf Gun,Sports & Outdoors,19,5,2026-01-17,Maven Toys Puebla 2
+25,PlayDoh Can,Art & Crafts,10,5,2026-01-16,Maven Toys Puebla 2
+26,PlayDoh Playset,Art & Crafts,15,5,2025-11-28,Maven Toys Puebla 2
+27,PlayDoh Toolkit,Art & Crafts,24,7,2026-02-05,Maven Toys Puebla 2
+28,Playfoam,Art & Crafts,3,5,2025-10-27,Maven Toys Puebla 2
+29,Plush Pony,Toys,5,5,2026-02-13,Maven Toys Puebla 2
+30,Rubik's Cube,Games,27,8,2026-01-20,Maven Toys Puebla 2
+31,Splash Balls,Sports & Outdoors,18,5,2026-01-21,Maven Toys Puebla 2
+32,Supersoaker Water Gun,Sports & Outdoors,3,5,2026-01-26,Maven Toys Puebla 2
+33,Teddy Bear,Toys,9,5,2026-01-30,Maven Toys Puebla 2
+34,Toy Robot,Electronics,19,5,2026-02-13,Maven Toys Puebla 2
+1,Action Figure,Toys,2,5,2026-01-25,Maven Toys Xalapa 1
+2,Animal Figures,Toys,15,5,2025-12-19,Maven Toys Xalapa 1
+3,Barrel O' Slime,Art & Crafts,17,5,2026-01-15,Maven Toys Xalapa 1
+6,Colorbuds,Electronics,17,5,2026-02-11,Maven Toys Xalapa 1
+7,Dart Gun,Sports & Outdoors,10,5,2026-02-15,Maven Toys Xalapa 1
+8,Deck Of Cards,Games,10,5,2025-11-04,Maven Toys Xalapa 1
+9,Dino Egg,Toys,6,5,2026-02-09,Maven Toys Xalapa 1
+10,Dinosaur Figures,Toys,45,13,2026-02-05,Maven Toys Xalapa 1
+11,Etch A Sketch,Art & Crafts,8,5,2026-01-21,Maven Toys Xalapa 1
+12,Foam Disk Launcher,Sports & Outdoors,6,5,2026-01-20,Maven Toys Xalapa 1
+13,Gamer Headphones,Electronics,5,5,2026-02-14,Maven Toys Xalapa 1
+14,Glass Marbles,Games,5,5,2026-02-08,Maven Toys Xalapa 1
+15,Hot Wheels 5-Pack,Toys,18,5,2025-10-25,Maven Toys Xalapa 1
+17,Kids Makeup Kit,Art & Crafts,25,7,2026-01-30,Maven Toys Xalapa 1
+18,Lego Bricks,Toys,26,7,2026-02-08,Maven Toys Xalapa 1
+19,Magic Sand,Art & Crafts,12,5,2026-01-15,Maven Toys Xalapa 1
+21,Mini Ping Pong Set,Sports & Outdoors,10,5,2026-02-02,Maven Toys Xalapa 1
+23,Mr. Potatohead,Toys,37,11,2026-01-08,Maven Toys Xalapa 1
+24,Nerf Gun,Sports & Outdoors,14,5,2026-02-04,Maven Toys Xalapa 1
+25,PlayDoh Can,Art & Crafts,47,14,2026-01-08,Maven Toys Xalapa 1
+26,PlayDoh Playset,Art & Crafts,2,5,2026-01-30,Maven Toys Xalapa 1
+27,PlayDoh Toolkit,Art & Crafts,27,8,2026-02-17,Maven Toys Xalapa 1
+28,Playfoam,Art & Crafts,1,5,2026-02-14,Maven Toys Xalapa 1
+29,Plush Pony,Toys,6,5,2025-11-22,Maven Toys Xalapa 1
+30,Rubik's Cube,Games,32,9,2026-02-16,Maven Toys Xalapa 1
+31,Splash Balls,Sports & Outdoors,3,5,2026-01-29,Maven Toys Xalapa 1
+32,Supersoaker Water Gun,Sports & Outdoors,7,5,2026-02-18,Maven Toys Xalapa 1
+33,Teddy Bear,Toys,6,5,2026-02-05,Maven Toys Xalapa 1
+34,Toy Robot,Electronics,16,5,2026-01-30,Maven Toys Xalapa 1
+1,Action Figure,Toys,15,5,2025-11-27,Maven Toys Guadalajara 3
+2,Animal Figures,Toys,30,9,2026-01-20,Maven Toys Guadalajara 3
+3,Barrel O' Slime,Art & Crafts,10,5,2025-11-01,Maven Toys Guadalajara 3
+6,Colorbuds,Electronics,18,5,2025-11-12,Maven Toys Guadalajara 3
+7,Dart Gun,Sports & Outdoors,13,5,2026-02-04,Maven Toys Guadalajara 3
+8,Deck Of Cards,Games,110,33,2026-01-27,Maven Toys Guadalajara 3
+9,Dino Egg,Toys,59,17,2026-01-30,Maven Toys Guadalajara 3
+10,Dinosaur Figures,Toys,55,16,2026-01-20,Maven Toys Guadalajara 3
+11,Etch A Sketch,Art & Crafts,3,5,2026-02-03,Maven Toys Guadalajara 3
+12,Foam Disk Launcher,Sports & Outdoors,8,5,2025-10-22,Maven Toys Guadalajara 3
+13,Gamer Headphones,Electronics,18,5,2026-02-01,Maven Toys Guadalajara 3
+14,Glass Marbles,Games,10,5,2026-01-27,Maven Toys Guadalajara 3
+15,Hot Wheels 5-Pack,Toys,9,5,2026-02-13,Maven Toys Guadalajara 3
+17,Kids Makeup Kit,Art & Crafts,13,5,2025-12-29,Maven Toys Guadalajara 3
+18,Lego Bricks,Toys,9,5,2026-02-18,Maven Toys Guadalajara 3
+19,Magic Sand,Art & Crafts,19,5,2025-12-25,Maven Toys Guadalajara 3
+21,Mini Ping Pong Set,Sports & Outdoors,18,5,2026-01-20,Maven Toys Guadalajara 3
+23,Mr. Potatohead,Toys,12,5,2026-02-02,Maven Toys Guadalajara 3
+24,Nerf Gun,Sports & Outdoors,23,6,2026-01-05,Maven Toys Guadalajara 3
+25,PlayDoh Can,Art & Crafts,6,5,2026-02-07,Maven Toys Guadalajara 3
+26,PlayDoh Playset,Art & Crafts,13,5,2026-01-25,Maven Toys Guadalajara 3
+27,PlayDoh Toolkit,Art & Crafts,29,8,2026-02-18,Maven Toys Guadalajara 3
+28,Playfoam,Art & Crafts,3,5,2026-02-03,Maven Toys Guadalajara 3
+29,Plush Pony,Toys,19,5,2026-01-04,Maven Toys Guadalajara 3
+30,Rubik's Cube,Games,21,6,2026-01-24,Maven Toys Guadalajara 3
+31,Splash Balls,Sports & Outdoors,20,6,2026-02-17,Maven Toys Guadalajara 3
+32,Supersoaker Water Gun,Sports & Outdoors,13,5,2025-12-15,Maven Toys Guadalajara 3
+33,Teddy Bear,Toys,10,5,2026-02-18,Maven Toys Guadalajara 3
+34,Toy Robot,Electronics,18,5,2026-02-03,Maven Toys Guadalajara 3
+1,Action Figure,Toys,5,5,2025-12-30,Maven Toys Ciudad de Mexico 2
+2,Animal Figures,Toys,36,10,2026-02-10,Maven Toys Ciudad de Mexico 2
+3,Barrel O' Slime,Art & Crafts,36,10,2026-02-17,Maven Toys Ciudad de Mexico 2
+6,Colorbuds,Electronics,41,12,2026-02-05,Maven Toys Ciudad de Mexico 2
+7,Dart Gun,Sports & Outdoors,18,5,2025-12-02,Maven Toys Ciudad de Mexico 2
+8,Deck Of Cards,Games,84,25,2026-01-02,Maven Toys Ciudad de Mexico 2
+9,Dino Egg,Toys,10,5,2025-12-28,Maven Toys Ciudad de Mexico 2
+10,Dinosaur Figures,Toys,139,41,2026-02-08,Maven Toys Ciudad de Mexico 2
+11,Etch A Sketch,Art & Crafts,8,5,2026-01-20,Maven Toys Ciudad de Mexico 2
+12,Foam Disk Launcher,Sports & Outdoors,13,5,2026-01-25,Maven Toys Ciudad de Mexico 2
+13,Gamer Headphones,Electronics,19,5,2026-02-18,Maven Toys Ciudad de Mexico 2
+14,Glass Marbles,Games,9,5,2026-02-12,Maven Toys Ciudad de Mexico 2
+15,Hot Wheels 5-Pack,Toys,4,5,2026-01-31,Maven Toys Ciudad de Mexico 2
+17,Kids Makeup Kit,Art & Crafts,19,5,2026-01-25,Maven Toys Ciudad de Mexico 2
+18,Lego Bricks,Toys,2,5,2026-02-02,Maven Toys Ciudad de Mexico 2
+19,Magic Sand,Art & Crafts,95,28,2026-02-13,Maven Toys Ciudad de Mexico 2
+21,Mini Ping Pong Set,Sports & Outdoors,6,5,2026-02-16,Maven Toys Ciudad de Mexico 2
+23,Mr. Potatohead,Toys,9,5,2026-02-05,Maven Toys Ciudad de Mexico 2
+24,Nerf Gun,Sports & Outdoors,29,8,2026-02-05,Maven Toys Ciudad de Mexico 2
+25,PlayDoh Can,Art & Crafts,94,28,2026-01-29,Maven Toys Ciudad de Mexico 2
+26,PlayDoh Playset,Art & Crafts,17,5,2026-01-04,Maven Toys Ciudad de Mexico 2
+27,PlayDoh Toolkit,Art & Crafts,27,8,2025-12-23,Maven Toys Ciudad de Mexico 2
+28,Playfoam,Art & Crafts,10,5,2026-01-24,Maven Toys Ciudad de Mexico 2
+29,Plush Pony,Toys,28,8,2026-02-14,Maven Toys Ciudad de Mexico 2
+30,Rubik's Cube,Games,66,19,2026-02-14,Maven Toys Ciudad de Mexico 2
+31,Splash Balls,Sports & Outdoors,39,11,2026-02-15,Maven Toys Ciudad de Mexico 2
+32,Supersoaker Water Gun,Sports & Outdoors,12,5,2026-02-03,Maven Toys Ciudad de Mexico 2
+33,Teddy Bear,Toys,20,6,2026-02-05,Maven Toys Ciudad de Mexico 2
+34,Toy Robot,Electronics,20,6,2025-12-24,Maven Toys Ciudad de Mexico 2
+1,Action Figure,Toys,25,7,2026-01-29,Maven Toys Hermosillo 1
+2,Animal Figures,Toys,10,5,2026-01-27,Maven Toys Hermosillo 1
+3,Barrel O' Slime,Art & Crafts,45,13,2025-12-30,Maven Toys Hermosillo 1
+6,Colorbuds,Electronics,65,19,2025-12-26,Maven Toys Hermosillo 1
+7,Dart Gun,Sports & Outdoors,18,5,2026-01-31,Maven Toys Hermosillo 1
+8,Deck Of Cards,Games,56,16,2026-01-29,Maven Toys Hermosillo 1
+9,Dino Egg,Toys,3,5,2026-01-31,Maven Toys Hermosillo 1
+10,Dinosaur Figures,Toys,138,41,2026-01-21,Maven Toys Hermosillo 1
+11,Etch A Sketch,Art & Crafts,6,5,2026-01-29,Maven Toys Hermosillo 1
+12,Foam Disk Launcher,Sports & Outdoors,4,5,2026-01-23,Maven Toys Hermosillo 1
+13,Gamer Headphones,Electronics,13,5,2025-11-23,Maven Toys Hermosillo 1
+14,Glass Marbles,Games,27,8,2026-02-03,Maven Toys Hermosillo 1
+15,Hot Wheels 5-Pack,Toys,27,8,2026-01-20,Maven Toys Hermosillo 1
+17,Kids Makeup Kit,Art & Crafts,8,5,2026-01-03,Maven Toys Hermosillo 1
+18,Lego Bricks,Toys,40,12,2025-11-25,Maven Toys Hermosillo 1
+19,Magic Sand,Art & Crafts,35,10,2026-02-08,Maven Toys Hermosillo 1
+21,Mini Ping Pong Set,Sports & Outdoors,0,5,2026-02-07,Maven Toys Hermosillo 1
+23,Mr. Potatohead,Toys,23,6,2026-02-06,Maven Toys Hermosillo 1
+24,Nerf Gun,Sports & Outdoors,42,12,2026-01-26,Maven Toys Hermosillo 1
+25,PlayDoh Can,Art & Crafts,20,6,2025-12-22,Maven Toys Hermosillo 1
+26,PlayDoh Playset,Art & Crafts,11,5,2026-02-15,Maven Toys Hermosillo 1
+27,PlayDoh Toolkit,Art & Crafts,53,15,2026-01-28,Maven Toys Hermosillo 1
+28,Playfoam,Art & Crafts,5,5,2026-01-19,Maven Toys Hermosillo 1
+29,Plush Pony,Toys,4,5,2026-02-06,Maven Toys Hermosillo 1
+30,Rubik's Cube,Games,28,8,2026-01-23,Maven Toys Hermosillo 1
+31,Splash Balls,Sports & Outdoors,4,5,2026-01-28,Maven Toys Hermosillo 1
+32,Supersoaker Water Gun,Sports & Outdoors,8,5,2025-12-29,Maven Toys Hermosillo 1
+33,Teddy Bear,Toys,13,5,2026-01-24,Maven Toys Hermosillo 1
+34,Toy Robot,Electronics,20,6,2026-02-09,Maven Toys Hermosillo 1
+1,Action Figure,Toys,10,5,2026-01-25,Maven Toys Monterrey 3
+2,Animal Figures,Toys,16,5,2026-01-12,Maven Toys Monterrey 3
+3,Barrel O' Slime,Art & Crafts,21,6,2026-01-03,Maven Toys Monterrey 3
+4,Chutes & Ladders,Games,15,5,2026-02-14,Maven Toys Monterrey 3
+5,Classic Dominoes,Games,7,5,2026-01-26,Maven Toys Monterrey 3
+6,Colorbuds,Electronics,8,5,2025-12-23,Maven Toys Monterrey 3
+7,Dart Gun,Sports & Outdoors,4,5,2026-01-25,Maven Toys Monterrey 3
+8,Deck Of Cards,Games,66,19,2026-02-15,Maven Toys Monterrey 3
+9,Dino Egg,Toys,3,5,2026-01-27,Maven Toys Monterrey 3
+10,Dinosaur Figures,Toys,12,5,2026-02-04,Maven Toys Monterrey 3
+11,Etch A Sketch,Art & Crafts,4,5,2026-02-07,Maven Toys Monterrey 3
+12,Foam Disk Launcher,Sports & Outdoors,17,5,2025-12-28,Maven Toys Monterrey 3
+13,Gamer Headphones,Electronics,0,5,2026-01-28,Maven Toys Monterrey 3
+14,Glass Marbles,Games,11,5,2026-02-04,Maven Toys Monterrey 3
+15,Hot Wheels 5-Pack,Toys,0,5,2026-02-12,Maven Toys Monterrey 3
+16,Jenga,Games,5,5,2026-02-09,Maven Toys Monterrey 3
+17,Kids Makeup Kit,Art & Crafts,2,5,2026-02-06,Maven Toys Monterrey 3
+18,Lego Bricks,Toys,15,5,2026-01-20,Maven Toys Monterrey 3
+19,Magic Sand,Art & Crafts,61,18,2026-02-16,Maven Toys Monterrey 3
+20,Mini Basketball Hoop,Sports & Outdoors,11,5,2026-02-01,Maven Toys Monterrey 3
+21,Mini Ping Pong Set,Sports & Outdoors,13,5,2026-01-28,Maven Toys Monterrey 3
+22,Monopoly,Games,5,5,2026-02-10,Maven Toys Monterrey 3
+23,Mr. Potatohead,Toys,22,6,2026-02-12,Maven Toys Monterrey 3
+24,Nerf Gun,Sports & Outdoors,27,8,2026-02-05,Maven Toys Monterrey 3
+25,PlayDoh Can,Art & Crafts,57,17,2026-01-24,Maven Toys Monterrey 3
+26,PlayDoh Playset,Art & Crafts,5,5,2026-02-12,Maven Toys Monterrey 3
+27,PlayDoh Toolkit,Art & Crafts,6,5,2026-01-16,Maven Toys Monterrey 3
+28,Playfoam,Art & Crafts,5,5,2026-02-18,Maven Toys Monterrey 3
+29,Plush Pony,Toys,9,5,2026-02-10,Maven Toys Monterrey 3
+30,Rubik's Cube,Games,39,11,2026-01-23,Maven Toys Monterrey 3
+31,Splash Balls,Sports & Outdoors,7,5,2026-02-12,Maven Toys Monterrey 3
+32,Supersoaker Water Gun,Sports & Outdoors,15,5,2026-02-02,Maven Toys Monterrey 3
+33,Teddy Bear,Toys,9,5,2025-12-23,Maven Toys Monterrey 3
+34,Toy Robot,Electronics,14,5,2025-12-24,Maven Toys Monterrey 3
+35,Uno Card Game,Games,18,5,2026-02-11,Maven Toys Monterrey 3
+1,Action Figure,Toys,5,5,2026-01-02,Maven Toys Villahermosa 1
+2,Animal Figures,Toys,25,7,2026-02-07,Maven Toys Villahermosa 1
+3,Barrel O' Slime,Art & Crafts,17,5,2026-02-16,Maven Toys Villahermosa 1
+4,Chutes & Ladders,Games,15,5,2026-02-17,Maven Toys Villahermosa 1
+5,Classic Dominoes,Games,7,5,2025-12-19,Maven Toys Villahermosa 1
+6,Colorbuds,Electronics,24,7,2026-02-16,Maven Toys Villahermosa 1
+7,Dart Gun,Sports & Outdoors,5,5,2025-12-21,Maven Toys Villahermosa 1
+8,Deck Of Cards,Games,68,20,2026-01-28,Maven Toys Villahermosa 1
+9,Dino Egg,Toys,0,5,2026-02-15,Maven Toys Villahermosa 1
+10,Dinosaur Figures,Toys,57,17,2025-11-22,Maven Toys Villahermosa 1
+11,Etch A Sketch,Art & Crafts,18,5,2026-01-25,Maven Toys Villahermosa 1
+12,Foam Disk Launcher,Sports & Outdoors,6,5,2026-02-09,Maven Toys Villahermosa 1
+13,Gamer Headphones,Electronics,3,5,2026-01-25,Maven Toys Villahermosa 1
+14,Glass Marbles,Games,5,5,2026-01-08,Maven Toys Villahermosa 1
+15,Hot Wheels 5-Pack,Toys,10,5,2026-02-07,Maven Toys Villahermosa 1
+16,Jenga,Games,7,5,2025-12-18,Maven Toys Villahermosa 1
+17,Kids Makeup Kit,Art & Crafts,19,5,2025-11-06,Maven Toys Villahermosa 1
+18,Lego Bricks,Toys,12,5,2026-01-31,Maven Toys Villahermosa 1
+19,Magic Sand,Art & Crafts,14,5,2026-02-14,Maven Toys Villahermosa 1
+20,Mini Basketball Hoop,Sports & Outdoors,17,5,2025-12-27,Maven Toys Villahermosa 1
+21,Mini Ping Pong Set,Sports & Outdoors,22,6,2026-01-25,Maven Toys Villahermosa 1
+22,Monopoly,Games,15,5,2026-01-30,Maven Toys Villahermosa 1
+23,Mr. Potatohead,Toys,13,5,2026-02-01,Maven Toys Villahermosa 1
+24,Nerf Gun,Sports & Outdoors,28,8,2026-01-19,Maven Toys Villahermosa 1
+25,PlayDoh Can,Art & Crafts,131,39,2026-02-07,Maven Toys Villahermosa 1
+26,PlayDoh Playset,Art & Crafts,3,5,2026-01-18,Maven Toys Villahermosa 1
+27,PlayDoh Toolkit,Art & Crafts,12,5,2026-02-15,Maven Toys Villahermosa 1
+28,Playfoam,Art & Crafts,13,5,2026-02-01,Maven Toys Villahermosa 1
+29,Plush Pony,Toys,3,5,2026-02-10,Maven Toys Villahermosa 1
+30,Rubik's Cube,Games,53,15,2026-01-23,Maven Toys Villahermosa 1
+31,Splash Balls,Sports & Outdoors,30,9,2026-02-18,Maven Toys Villahermosa 1
+32,Supersoaker Water Gun,Sports & Outdoors,19,5,2026-01-30,Maven Toys Villahermosa 1
+33,Teddy Bear,Toys,9,5,2026-01-24,Maven Toys Villahermosa 1
+34,Toy Robot,Electronics,17,5,2026-01-27,Maven Toys Villahermosa 1
+35,Uno Card Game,Games,20,6,2026-01-28,Maven Toys Villahermosa 1
+1,Action Figure,Toys,8,5,2026-01-28,Maven Toys Chilpancingo 1
+2,Animal Figures,Toys,37,11,2026-01-30,Maven Toys Chilpancingo 1
+3,Barrel O' Slime,Art & Crafts,12,5,2026-02-04,Maven Toys Chilpancingo 1
+6,Colorbuds,Electronics,31,9,2026-02-13,Maven Toys Chilpancingo 1
+7,Dart Gun,Sports & Outdoors,10,5,2026-01-17,Maven Toys Chilpancingo 1
+8,Deck Of Cards,Games,77,23,2026-02-09,Maven Toys Chilpancingo 1
+9,Dino Egg,Toys,4,5,2026-01-14,Maven Toys Chilpancingo 1
+10,Dinosaur Figures,Toys,86,25,2026-02-12,Maven Toys Chilpancingo 1
+11,Etch A Sketch,Art & Crafts,8,5,2026-02-10,Maven Toys Chilpancingo 1
+12,Foam Disk Launcher,Sports & Outdoors,15,5,2026-02-16,Maven Toys Chilpancingo 1
+13,Gamer Headphones,Electronics,3,5,2026-02-17,Maven Toys Chilpancingo 1
+14,Glass Marbles,Games,38,11,2026-02-05,Maven Toys Chilpancingo 1
+15,Hot Wheels 5-Pack,Toys,0,5,2025-12-11,Maven Toys Chilpancingo 1
+17,Kids Makeup Kit,Art & Crafts,10,5,2025-12-26,Maven Toys Chilpancingo 1
+18,Lego Bricks,Toys,11,5,2026-02-18,Maven Toys Chilpancingo 1
+19,Magic Sand,Art & Crafts,44,13,2025-12-07,Maven Toys Chilpancingo 1
+21,Mini Ping Pong Set,Sports & Outdoors,6,5,2026-02-03,Maven Toys Chilpancingo 1
+23,Mr. Potatohead,Toys,5,5,2025-12-22,Maven Toys Chilpancingo 1
+24,Nerf Gun,Sports & Outdoors,44,13,2026-02-16,Maven Toys Chilpancingo 1
+25,PlayDoh Can,Art & Crafts,14,5,2026-01-25,Maven Toys Chilpancingo 1
+26,PlayDoh Playset,Art & Crafts,5,5,2026-02-17,Maven Toys Chilpancingo 1
+27,PlayDoh Toolkit,Art & Crafts,16,5,2026-02-17,Maven Toys Chilpancingo 1
+28,Playfoam,Art & Crafts,20,6,2026-02-04,Maven Toys Chilpancingo 1
+29,Plush Pony,Toys,11,5,2025-10-22,Maven Toys Chilpancingo 1
+30,Rubik's Cube,Games,10,5,2025-12-23,Maven Toys Chilpancingo 1
+31,Splash Balls,Sports & Outdoors,74,22,2026-02-05,Maven Toys Chilpancingo 1
+32,Supersoaker Water Gun,Sports & Outdoors,20,6,2025-12-22,Maven Toys Chilpancingo 1
+33,Teddy Bear,Toys,14,5,2026-02-13,Maven Toys Chilpancingo 1
+34,Toy Robot,Electronics,9,5,2026-02-08,Maven Toys Chilpancingo 1
+1,Action Figure,Toys,2,5,2026-01-22,Maven Toys Morelia 1
+2,Animal Figures,Toys,26,7,2026-01-31,Maven Toys Morelia 1
+3,Barrel O' Slime,Art & Crafts,26,7,2026-02-17,Maven Toys Morelia 1
+4,Chutes & Ladders,Games,0,5,2026-02-17,Maven Toys Morelia 1
+5,Classic Dominoes,Games,3,5,2026-02-01,Maven Toys Morelia 1
+6,Colorbuds,Electronics,27,8,2026-01-26,Maven Toys Morelia 1
+7,Dart Gun,Sports & Outdoors,15,5,2026-01-27,Maven Toys Morelia 1
+8,Deck Of Cards,Games,58,17,2026-02-16,Maven Toys Morelia 1
+9,Dino Egg,Toys,19,5,2026-01-22,Maven Toys Morelia 1
+10,Dinosaur Figures,Toys,33,9,2026-01-31,Maven Toys Morelia 1
+11,Etch A Sketch,Art & Crafts,1,5,2026-02-03,Maven Toys Morelia 1
+12,Foam Disk Launcher,Sports & Outdoors,1,5,2026-02-15,Maven Toys Morelia 1
+13,Gamer Headphones,Electronics,18,5,2026-02-11,Maven Toys Morelia 1
+14,Glass Marbles,Games,110,33,2026-01-13,Maven Toys Morelia 1
+15,Hot Wheels 5-Pack,Toys,2,5,2026-01-21,Maven Toys Morelia 1
+16,Jenga,Games,7,5,2026-01-22,Maven Toys Morelia 1
+17,Kids Makeup Kit,Art & Crafts,12,5,2026-01-02,Maven Toys Morelia 1
+18,Lego Bricks,Toys,4,5,2026-01-30,Maven Toys Morelia 1
+19,Magic Sand,Art & Crafts,28,8,2026-01-21,Maven Toys Morelia 1
+20,Mini Basketball Hoop,Sports & Outdoors,2,5,2026-01-23,Maven Toys Morelia 1
+21,Mini Ping Pong Set,Sports & Outdoors,33,9,2026-02-05,Maven Toys Morelia 1
+22,Monopoly,Games,21,6,2026-01-21,Maven Toys Morelia 1
+23,Mr. Potatohead,Toys,19,5,2025-12-21,Maven Toys Morelia 1
+24,Nerf Gun,Sports & Outdoors,9,5,2026-01-20,Maven Toys Morelia 1
+25,PlayDoh Can,Art & Crafts,125,37,2026-01-28,Maven Toys Morelia 1
+26,PlayDoh Playset,Art & Crafts,7,5,2025-12-30,Maven Toys Morelia 1
+27,PlayDoh Toolkit,Art & Crafts,46,13,2025-12-25,Maven Toys Morelia 1
+28,Playfoam,Art & Crafts,7,5,2026-02-14,Maven Toys Morelia 1
+29,Plush Pony,Toys,14,5,2026-01-29,Maven Toys Morelia 1
+30,Rubik's Cube,Games,15,5,2026-01-07,Maven Toys Morelia 1
+31,Splash Balls,Sports & Outdoors,6,5,2025-12-03,Maven Toys Morelia 1
+32,Supersoaker Water Gun,Sports & Outdoors,7,5,2026-02-15,Maven Toys Morelia 1
+33,Teddy Bear,Toys,21,6,2026-02-02,Maven Toys Morelia 1
+34,Toy Robot,Electronics,2,5,2026-01-29,Maven Toys Morelia 1
+35,Uno Card Game,Games,12,5,2025-12-28,Maven Toys Morelia 1
+1,Action Figure,Toys,23,6,2026-01-20,Maven Toys Ciudad de Mexico 3
+2,Animal Figures,Toys,3,5,2026-01-30,Maven Toys Ciudad de Mexico 3
+3,Barrel O' Slime,Art & Crafts,4,5,2026-02-01,Maven Toys Ciudad de Mexico 3
+4,Chutes & Ladders,Games,4,5,2026-02-10,Maven Toys Ciudad de Mexico 3
+5,Classic Dominoes,Games,2,5,2026-01-21,Maven Toys Ciudad de Mexico 3
+6,Colorbuds,Electronics,17,5,2026-01-29,Maven Toys Ciudad de Mexico 3
+7,Dart Gun,Sports & Outdoors,16,5,2025-11-02,Maven Toys Ciudad de Mexico 3
+8,Deck Of Cards,Games,129,38,2025-12-04,Maven Toys Ciudad de Mexico 3
+9,Dino Egg,Toys,10,5,2026-02-10,Maven Toys Ciudad de Mexico 3
+10,Dinosaur Figures,Toys,34,10,2026-01-22,Maven Toys Ciudad de Mexico 3
+11,Etch A Sketch,Art & Crafts,7,5,2026-02-18,Maven Toys Ciudad de Mexico 3
+12,Foam Disk Launcher,Sports & Outdoors,11,5,2025-12-25,Maven Toys Ciudad de Mexico 3
+13,Gamer Headphones,Electronics,21,6,2026-02-11,Maven Toys Ciudad de Mexico 3
+14,Glass Marbles,Games,5,5,2026-02-08,Maven Toys Ciudad de Mexico 3
+15,Hot Wheels 5-Pack,Toys,4,5,2026-02-11,Maven Toys Ciudad de Mexico 3
+16,Jenga,Games,6,5,2026-01-12,Maven Toys Ciudad de Mexico 3
+17,Kids Makeup Kit,Art & Crafts,7,5,2026-02-02,Maven Toys Ciudad de Mexico 3
+18,Lego Bricks,Toys,6,5,2026-01-26,Maven Toys Ciudad de Mexico 3
+19,Magic Sand,Art & Crafts,69,20,2026-01-15,Maven Toys Ciudad de Mexico 3
+20,Mini Basketball Hoop,Sports & Outdoors,11,5,2026-01-19,Maven Toys Ciudad de Mexico 3
+21,Mini Ping Pong Set,Sports & Outdoors,53,15,2026-02-11,Maven Toys Ciudad de Mexico 3
+22,Monopoly,Games,9,5,2026-01-25,Maven Toys Ciudad de Mexico 3
+23,Mr. Potatohead,Toys,0,5,2026-01-19,Maven Toys Ciudad de Mexico 3
+24,Nerf Gun,Sports & Outdoors,27,8,2026-01-26,Maven Toys Ciudad de Mexico 3
+25,PlayDoh Can,Art & Crafts,34,10,2026-02-02,Maven Toys Ciudad de Mexico 3
+26,PlayDoh Playset,Art & Crafts,11,5,2025-11-30,Maven Toys Ciudad de Mexico 3
+27,PlayDoh Toolkit,Art & Crafts,18,5,2026-02-05,Maven Toys Ciudad de Mexico 3
+28,Playfoam,Art & Crafts,4,5,2025-10-30,Maven Toys Ciudad de Mexico 3
+29,Plush Pony,Toys,5,5,2026-01-13,Maven Toys Ciudad de Mexico 3
+30,Rubik's Cube,Games,35,10,2026-01-01,Maven Toys Ciudad de Mexico 3
+31,Splash Balls,Sports & Outdoors,14,5,2026-02-14,Maven Toys Ciudad de Mexico 3
+32,Supersoaker Water Gun,Sports & Outdoors,0,5,2026-01-28,Maven Toys Ciudad de Mexico 3
+33,Teddy Bear,Toys,10,5,2026-01-10,Maven Toys Ciudad de Mexico 3
+34,Toy Robot,Electronics,13,5,2026-02-03,Maven Toys Ciudad de Mexico 3
+35,Uno Card Game,Games,14,5,2025-11-20,Maven Toys Ciudad de Mexico 3
+1,Action Figure,Toys,21,6,2026-01-12,Maven Toys Chihuahua 2
+2,Animal Figures,Toys,34,10,2026-02-17,Maven Toys Chihuahua 2
+3,Barrel O' Slime,Art & Crafts,54,16,2026-02-16,Maven Toys Chihuahua 2
+4,Chutes & Ladders,Games,15,5,2026-01-20,Maven Toys Chihuahua 2
+5,Classic Dominoes,Games,20,6,2026-02-10,Maven Toys Chihuahua 2
+6,Colorbuds,Electronics,54,16,2026-01-24,Maven Toys Chihuahua 2
+7,Dart Gun,Sports & Outdoors,84,25,2026-02-01,Maven Toys Chihuahua 2
+8,Deck Of Cards,Games,94,28,2026-02-15,Maven Toys Chihuahua 2
+9,Dino Egg,Toys,6,5,2026-02-11,Maven Toys Chihuahua 2
+10,Dinosaur Figures,Toys,68,20,2026-02-06,Maven Toys Chihuahua 2
+11,Etch A Sketch,Art & Crafts,2,5,2026-02-03,Maven Toys Chihuahua 2
+12,Foam Disk Launcher,Sports & Outdoors,0,5,2025-12-23,Maven Toys Chihuahua 2
+13,Gamer Headphones,Electronics,21,6,2026-02-09,Maven Toys Chihuahua 2
+14,Glass Marbles,Games,7,5,2026-02-11,Maven Toys Chihuahua 2
+15,Hot Wheels 5-Pack,Toys,5,5,2026-02-10,Maven Toys Chihuahua 2
+16,Jenga,Games,6,5,2026-01-23,Maven Toys Chihuahua 2
+17,Kids Makeup Kit,Art & Crafts,24,7,2026-01-24,Maven Toys Chihuahua 2
+18,Lego Bricks,Toys,10,5,2026-01-28,Maven Toys Chihuahua 2
+19,Magic Sand,Art & Crafts,7,5,2026-01-30,Maven Toys Chihuahua 2
+20,Mini Basketball Hoop,Sports & Outdoors,11,5,2026-01-31,Maven Toys Chihuahua 2
+21,Mini Ping Pong Set,Sports & Outdoors,63,18,2025-12-27,Maven Toys Chihuahua 2
+22,Monopoly,Games,8,5,2025-10-24,Maven Toys Chihuahua 2
+23,Mr. Potatohead,Toys,27,8,2025-12-28,Maven Toys Chihuahua 2
+24,Nerf Gun,Sports & Outdoors,11,5,2026-01-08,Maven Toys Chihuahua 2
+25,PlayDoh Can,Art & Crafts,57,17,2025-12-03,Maven Toys Chihuahua 2
+26,PlayDoh Playset,Art & Crafts,17,5,2026-01-20,Maven Toys Chihuahua 2
+27,PlayDoh Toolkit,Art & Crafts,24,7,2026-02-11,Maven Toys Chihuahua 2
+28,Playfoam,Art & Crafts,26,7,2026-01-06,Maven Toys Chihuahua 2
+29,Plush Pony,Toys,25,7,2026-01-08,Maven Toys Chihuahua 2
+30,Rubik's Cube,Games,7,5,2026-01-28,Maven Toys Chihuahua 2
+31,Splash Balls,Sports & Outdoors,17,5,2025-12-26,Maven Toys Chihuahua 2
+32,Supersoaker Water Gun,Sports & Outdoors,20,6,2025-11-22,Maven Toys Chihuahua 2
+33,Teddy Bear,Toys,9,5,2026-01-18,Maven Toys Chihuahua 2
+34,Toy Robot,Electronics,18,5,2026-02-04,Maven Toys Chihuahua 2
+35,Uno Card Game,Games,2,5,2026-02-01,Maven Toys Chihuahua 2
+1,Action Figure,Toys,0,5,2026-01-31,Maven Toys Xalapa 2
+2,Animal Figures,Toys,9,5,2026-02-07,Maven Toys Xalapa 2
+3,Barrel O' Slime,Art & Crafts,13,5,2026-01-09,Maven Toys Xalapa 2
+6,Colorbuds,Electronics,11,5,2026-01-19,Maven Toys Xalapa 2
+7,Dart Gun,Sports & Outdoors,21,6,2026-01-28,Maven Toys Xalapa 2
+8,Deck Of Cards,Games,90,27,2026-01-21,Maven Toys Xalapa 2
+9,Dino Egg,Toys,6,5,2026-02-07,Maven Toys Xalapa 2
+10,Dinosaur Figures,Toys,49,14,2026-02-14,Maven Toys Xalapa 2
+11,Etch A Sketch,Art & Crafts,2,5,2026-02-09,Maven Toys Xalapa 2
+12,Foam Disk Launcher,Sports & Outdoors,3,5,2026-02-11,Maven Toys Xalapa 2
+13,Gamer Headphones,Electronics,15,5,2026-02-14,Maven Toys Xalapa 2
+14,Glass Marbles,Games,12,5,2026-01-16,Maven Toys Xalapa 2
+15,Hot Wheels 5-Pack,Toys,0,5,2026-02-09,Maven Toys Xalapa 2
+17,Kids Makeup Kit,Art & Crafts,35,10,2026-01-25,Maven Toys Xalapa 2
+18,Lego Bricks,Toys,22,6,2026-02-05,Maven Toys Xalapa 2
+19,Magic Sand,Art & Crafts,9,5,2026-01-23,Maven Toys Xalapa 2
+21,Mini Ping Pong Set,Sports & Outdoors,5,5,2026-02-03,Maven Toys Xalapa 2
+23,Mr. Potatohead,Toys,5,5,2025-12-31,Maven Toys Xalapa 2
+24,Nerf Gun,Sports & Outdoors,58,17,2026-02-09,Maven Toys Xalapa 2
+25,PlayDoh Can,Art & Crafts,40,12,2025-12-29,Maven Toys Xalapa 2
+26,PlayDoh Playset,Art & Crafts,8,5,2026-01-06,Maven Toys Xalapa 2
+27,PlayDoh Toolkit,Art & Crafts,16,5,2026-02-17,Maven Toys Xalapa 2
+28,Playfoam,Art & Crafts,0,5,2025-12-31,Maven Toys Xalapa 2
+29,Plush Pony,Toys,16,5,2026-01-31,Maven Toys Xalapa 2
+30,Rubik's Cube,Games,19,5,2026-01-14,Maven Toys Xalapa 2
+31,Splash Balls,Sports & Outdoors,15,5,2026-01-15,Maven Toys Xalapa 2
+32,Supersoaker Water Gun,Sports & Outdoors,5,5,2026-02-04,Maven Toys Xalapa 2
+33,Teddy Bear,Toys,14,5,2026-01-30,Maven Toys Xalapa 2
+34,Toy Robot,Electronics,4,5,2025-12-29,Maven Toys Xalapa 2
+1,Action Figure,Toys,10,5,2026-02-14,Maven Toys Toluca 2
+2,Animal Figures,Toys,29,8,2026-01-28,Maven Toys Toluca 2
+3,Barrel O' Slime,Art & Crafts,9,5,2026-01-29,Maven Toys Toluca 2
+6,Colorbuds,Electronics,29,8,2026-02-05,Maven Toys Toluca 2
+7,Dart Gun,Sports & Outdoors,4,5,2026-01-25,Maven Toys Toluca 2
+8,Deck Of Cards,Games,61,18,2026-02-02,Maven Toys Toluca 2
+9,Dino Egg,Toys,11,5,2026-02-15,Maven Toys Toluca 2
+10,Dinosaur Figures,Toys,66,19,2026-02-16,Maven Toys Toluca 2
+11,Etch A Sketch,Art & Crafts,10,5,2026-02-03,Maven Toys Toluca 2
+12,Foam Disk Launcher,Sports & Outdoors,2,5,2026-01-30,Maven Toys Toluca 2
+13,Gamer Headphones,Electronics,2,5,2026-01-20,Maven Toys Toluca 2
+14,Glass Marbles,Games,13,5,2026-01-20,Maven Toys Toluca 2
+15,Hot Wheels 5-Pack,Toys,1,5,2025-12-23,Maven Toys Toluca 2
+17,Kids Makeup Kit,Art & Crafts,19,5,2026-01-03,Maven Toys Toluca 2
+18,Lego Bricks,Toys,26,7,2026-01-31,Maven Toys Toluca 2
+19,Magic Sand,Art & Crafts,23,6,2026-02-06,Maven Toys Toluca 2
+21,Mini Ping Pong Set,Sports & Outdoors,10,5,2025-12-25,Maven Toys Toluca 2
+23,Mr. Potatohead,Toys,10,5,2026-01-16,Maven Toys Toluca 2
+24,Nerf Gun,Sports & Outdoors,33,9,2026-02-03,Maven Toys Toluca 2
+25,PlayDoh Can,Art & Crafts,13,5,2026-01-20,Maven Toys Toluca 2
+26,PlayDoh Playset,Art & Crafts,4,5,2026-01-27,Maven Toys Toluca 2
+27,PlayDoh Toolkit,Art & Crafts,25,7,2026-01-30,Maven Toys Toluca 2
+28,Playfoam,Art & Crafts,0,5,2026-01-22,Maven Toys Toluca 2
+29,Plush Pony,Toys,1,5,2026-01-09,Maven Toys Toluca 2
+30,Rubik's Cube,Games,28,8,2025-12-29,Maven Toys Toluca 2
+31,Splash Balls,Sports & Outdoors,5,5,2026-02-02,Maven Toys Toluca 2
+32,Supersoaker Water Gun,Sports & Outdoors,7,5,2026-01-30,Maven Toys Toluca 2
+33,Teddy Bear,Toys,16,5,2025-12-24,Maven Toys Toluca 2
+34,Toy Robot,Electronics,5,5,2026-02-04,Maven Toys Toluca 2
+1,Action Figure,Toys,21,6,2026-01-09,Maven Toys Hermosillo 2
+2,Animal Figures,Toys,19,5,2025-12-25,Maven Toys Hermosillo 2
+3,Barrel O' Slime,Art & Crafts,63,18,2026-01-25,Maven Toys Hermosillo 2
+4,Chutes & Ladders,Games,0,5,2026-02-09,Maven Toys Hermosillo 2
+5,Classic Dominoes,Games,8,5,2026-02-06,Maven Toys Hermosillo 2
+6,Colorbuds,Electronics,7,5,2025-12-21,Maven Toys Hermosillo 2
+7,Dart Gun,Sports & Outdoors,14,5,2026-01-07,Maven Toys Hermosillo 2
+8,Deck Of Cards,Games,32,9,2026-01-23,Maven Toys Hermosillo 2
+9,Dino Egg,Toys,18,5,2026-01-29,Maven Toys Hermosillo 2
+10,Dinosaur Figures,Toys,94,28,2026-02-16,Maven Toys Hermosillo 2
+11,Etch A Sketch,Art & Crafts,0,5,2026-01-31,Maven Toys Hermosillo 2
+12,Foam Disk Launcher,Sports & Outdoors,19,5,2026-02-14,Maven Toys Hermosillo 2
+13,Gamer Headphones,Electronics,6,5,2026-01-29,Maven Toys Hermosillo 2
+14,Glass Marbles,Games,6,5,2026-02-14,Maven Toys Hermosillo 2
+15,Hot Wheels 5-Pack,Toys,6,5,2025-12-25,Maven Toys Hermosillo 2
+16,Jenga,Games,17,5,2026-02-12,Maven Toys Hermosillo 2
+17,Kids Makeup Kit,Art & Crafts,3,5,2025-11-16,Maven Toys Hermosillo 2
+18,Lego Bricks,Toys,9,5,2026-01-25,Maven Toys Hermosillo 2
+19,Magic Sand,Art & Crafts,100,30,2026-02-10,Maven Toys Hermosillo 2
+20,Mini Basketball Hoop,Sports & Outdoors,17,5,2026-01-22,Maven Toys Hermosillo 2
+21,Mini Ping Pong Set,Sports & Outdoors,29,8,2026-01-25,Maven Toys Hermosillo 2
+22,Monopoly,Games,9,5,2025-12-27,Maven Toys Hermosillo 2
+23,Mr. Potatohead,Toys,19,5,2026-01-29,Maven Toys Hermosillo 2
+24,Nerf Gun,Sports & Outdoors,4,5,2026-02-07,Maven Toys Hermosillo 2
+25,PlayDoh Can,Art & Crafts,19,5,2026-01-28,Maven Toys Hermosillo 2
+26,PlayDoh Playset,Art & Crafts,2,5,2026-02-16,Maven Toys Hermosillo 2
+27,PlayDoh Toolkit,Art & Crafts,25,7,2026-02-05,Maven Toys Hermosillo 2
+28,Playfoam,Art & Crafts,0,5,2026-02-03,Maven Toys Hermosillo 2
+29,Plush Pony,Toys,0,5,2026-02-09,Maven Toys Hermosillo 2
+30,Rubik's Cube,Games,74,22,2026-01-14,Maven Toys Hermosillo 2
+31,Splash Balls,Sports & Outdoors,18,5,2026-02-06,Maven Toys Hermosillo 2
+32,Supersoaker Water Gun,Sports & Outdoors,29,8,2026-01-09,Maven Toys Hermosillo 2
+33,Teddy Bear,Toys,13,5,2026-01-24,Maven Toys Hermosillo 2
+34,Toy Robot,Electronics,15,5,2026-01-29,Maven Toys Hermosillo 2
+35,Uno Card Game,Games,10,5,2026-02-18,Maven Toys Hermosillo 2
+1,Action Figure,Toys,8,5,2026-01-14,Maven Toys Hermosillo 3
+2,Animal Figures,Toys,10,5,2026-01-02,Maven Toys Hermosillo 3
+3,Barrel O' Slime,Art & Crafts,32,9,2026-01-09,Maven Toys Hermosillo 3
+4,Chutes & Ladders,Games,11,5,2025-12-06,Maven Toys Hermosillo 3
+5,Classic Dominoes,Games,12,5,2025-12-30,Maven Toys Hermosillo 3
+6,Colorbuds,Electronics,29,8,2026-02-07,Maven Toys Hermosillo 3
+7,Dart Gun,Sports & Outdoors,7,5,2026-01-06,Maven Toys Hermosillo 3
+8,Deck Of Cards,Games,54,16,2025-12-25,Maven Toys Hermosillo 3
+9,Dino Egg,Toys,30,9,2025-12-16,Maven Toys Hermosillo 3
+10,Dinosaur Figures,Toys,39,11,2026-01-24,Maven Toys Hermosillo 3
+11,Etch A Sketch,Art & Crafts,20,6,2026-02-02,Maven Toys Hermosillo 3
+12,Foam Disk Launcher,Sports & Outdoors,10,5,2026-01-25,Maven Toys Hermosillo 3
+13,Gamer Headphones,Electronics,7,5,2025-12-09,Maven Toys Hermosillo 3
+14,Glass Marbles,Games,13,5,2026-02-10,Maven Toys Hermosillo 3
+15,Hot Wheels 5-Pack,Toys,3,5,2026-01-29,Maven Toys Hermosillo 3
+16,Jenga,Games,0,5,2026-02-09,Maven Toys Hermosillo 3
+17,Kids Makeup Kit,Art & Crafts,11,5,2026-01-28,Maven Toys Hermosillo 3
+18,Lego Bricks,Toys,21,6,2026-02-02,Maven Toys Hermosillo 3
+19,Magic Sand,Art & Crafts,44,13,2025-11-17,Maven Toys Hermosillo 3
+20,Mini Basketball Hoop,Sports & Outdoors,8,5,2026-02-08,Maven Toys Hermosillo 3
+21,Mini Ping Pong Set,Sports & Outdoors,69,20,2026-01-28,Maven Toys Hermosillo 3
+22,Monopoly,Games,7,5,2026-02-17,Maven Toys Hermosillo 3
+23,Mr. Potatohead,Toys,31,9,2026-02-13,Maven Toys Hermosillo 3
+24,Nerf Gun,Sports & Outdoors,69,20,2026-01-10,Maven Toys Hermosillo 3
+25,PlayDoh Can,Art & Crafts,46,13,2026-02-17,Maven Toys Hermosillo 3
+26,PlayDoh Playset,Art & Crafts,18,5,2026-01-25,Maven Toys Hermosillo 3
+27,PlayDoh Toolkit,Art & Crafts,23,6,2026-02-17,Maven Toys Hermosillo 3
+28,Playfoam,Art & Crafts,0,5,2026-01-01,Maven Toys Hermosillo 3
+29,Plush Pony,Toys,35,10,2026-01-28,Maven Toys Hermosillo 3
+30,Rubik's Cube,Games,9,5,2026-02-04,Maven Toys Hermosillo 3
+31,Splash Balls,Sports & Outdoors,11,5,2026-01-22,Maven Toys Hermosillo 3
+32,Supersoaker Water Gun,Sports & Outdoors,4,5,2026-02-16,Maven Toys Hermosillo 3
+33,Teddy Bear,Toys,18,5,2026-02-02,Maven Toys Hermosillo 3
+34,Toy Robot,Electronics,34,10,2026-02-12,Maven Toys Hermosillo 3
+35,Uno Card Game,Games,13,5,2025-12-25,Maven Toys Hermosillo 3
+1,Action Figure,Toys,24,7,2026-02-05,Maven Toys Durango 1
+2,Animal Figures,Toys,8,5,2026-01-05,Maven Toys Durango 1
+3,Barrel O' Slime,Art & Crafts,20,6,2026-01-29,Maven Toys Durango 1
+6,Colorbuds,Electronics,18,5,2026-01-30,Maven Toys Durango 1
+7,Dart Gun,Sports & Outdoors,25,7,2025-12-24,Maven Toys Durango 1
+8,Deck Of Cards,Games,71,21,2025-11-11,Maven Toys Durango 1
+9,Dino Egg,Toys,4,5,2025-11-25,Maven Toys Durango 1
+10,Dinosaur Figures,Toys,49,14,2026-02-17,Maven Toys Durango 1
+11,Etch A Sketch,Art & Crafts,3,5,2026-01-20,Maven Toys Durango 1
+12,Foam Disk Launcher,Sports & Outdoors,3,5,2026-02-07,Maven Toys Durango 1
+13,Gamer Headphones,Electronics,12,5,2026-01-30,Maven Toys Durango 1
+14,Glass Marbles,Games,16,5,2026-01-13,Maven Toys Durango 1
+15,Hot Wheels 5-Pack,Toys,10,5,2026-01-25,Maven Toys Durango 1
+17,Kids Makeup Kit,Art & Crafts,18,5,2026-02-08,Maven Toys Durango 1
+18,Lego Bricks,Toys,16,5,2026-01-01,Maven Toys Durango 1
+19,Magic Sand,Art & Crafts,17,5,2026-02-07,Maven Toys Durango 1
+21,Mini Ping Pong Set,Sports & Outdoors,9,5,2026-01-26,Maven Toys Durango 1
+23,Mr. Potatohead,Toys,2,5,2026-02-10,Maven Toys Durango 1
+24,Nerf Gun,Sports & Outdoors,16,5,2026-01-29,Maven Toys Durango 1
+25,PlayDoh Can,Art & Crafts,55,16,2026-02-10,Maven Toys Durango 1
+26,PlayDoh Playset,Art & Crafts,6,5,2026-02-03,Maven Toys Durango 1
+27,PlayDoh Toolkit,Art & Crafts,29,8,2026-01-02,Maven Toys Durango 1
+28,Playfoam,Art & Crafts,4,5,2026-01-30,Maven Toys Durango 1
+29,Plush Pony,Toys,9,5,2026-02-17,Maven Toys Durango 1
+30,Rubik's Cube,Games,14,5,2026-02-16,Maven Toys Durango 1
+31,Splash Balls,Sports & Outdoors,18,5,2026-01-23,Maven Toys Durango 1
+32,Supersoaker Water Gun,Sports & Outdoors,38,11,2026-02-11,Maven Toys Durango 1
+33,Teddy Bear,Toys,5,5,2026-01-22,Maven Toys Durango 1
+34,Toy Robot,Electronics,7,5,2026-02-11,Maven Toys Durango 1
+1,Action Figure,Toys,0,5,2025-12-23,Maven Toys Puebla 3
+2,Animal Figures,Toys,4,5,2026-01-15,Maven Toys Puebla 3
+3,Barrel O' Slime,Art & Crafts,19,5,2026-02-13,Maven Toys Puebla 3
+5,Classic Dominoes,Games,14,5,2025-12-02,Maven Toys Puebla 3
+6,Colorbuds,Electronics,2,5,2026-01-08,Maven Toys Puebla 3
+7,Dart Gun,Sports & Outdoors,17,5,2025-12-28,Maven Toys Puebla 3
+8,Deck Of Cards,Games,33,9,2025-11-06,Maven Toys Puebla 3
+10,Dinosaur Figures,Toys,41,12,2025-11-30,Maven Toys Puebla 3
+11,Etch A Sketch,Art & Crafts,0,5,2026-01-18,Maven Toys Puebla 3
+14,Glass Marbles,Games,7,5,2026-02-13,Maven Toys Puebla 3
+15,Hot Wheels 5-Pack,Toys,4,5,2025-10-23,Maven Toys Puebla 3
+16,Jenga,Games,3,5,2026-01-23,Maven Toys Puebla 3
+17,Kids Makeup Kit,Art & Crafts,10,5,2026-02-16,Maven Toys Puebla 3
+18,Lego Bricks,Toys,117,35,2026-01-25,Maven Toys Puebla 3
+24,Nerf Gun,Sports & Outdoors,6,5,2025-12-25,Maven Toys Puebla 3
+25,PlayDoh Can,Art & Crafts,26,7,2026-02-14,Maven Toys Puebla 3
+27,PlayDoh Toolkit,Art & Crafts,24,7,2025-11-23,Maven Toys Puebla 3
+30,Rubik's Cube,Games,26,7,2025-12-31,Maven Toys Puebla 3
+31,Splash Balls,Sports & Outdoors,8,5,2025-12-15,Maven Toys Puebla 3
+32,Supersoaker Water Gun,Sports & Outdoors,29,8,2026-01-08,Maven Toys Puebla 3
+33,Teddy Bear,Toys,0,5,2025-12-19,Maven Toys Puebla 3
+34,Toy Robot,Electronics,22,6,2026-01-08,Maven Toys Puebla 3
+1,Action Figure,Toys,26,7,2026-01-26,Maven Toys Ciudad de Mexico 4
+2,Animal Figures,Toys,23,6,2026-02-16,Maven Toys Ciudad de Mexico 4
+3,Barrel O' Slime,Art & Crafts,63,18,2025-12-21,Maven Toys Ciudad de Mexico 4
+6,Colorbuds,Electronics,8,5,2026-01-29,Maven Toys Ciudad de Mexico 4
+7,Dart Gun,Sports & Outdoors,15,5,2026-01-24,Maven Toys Ciudad de Mexico 4
+8,Deck Of Cards,Games,8,5,2026-01-29,Maven Toys Ciudad de Mexico 4
+9,Dino Egg,Toys,0,5,2026-02-17,Maven Toys Ciudad de Mexico 4
+10,Dinosaur Figures,Toys,42,12,2026-02-04,Maven Toys Ciudad de Mexico 4
+11,Etch A Sketch,Art & Crafts,10,5,2026-02-08,Maven Toys Ciudad de Mexico 4
+12,Foam Disk Launcher,Sports & Outdoors,8,5,2026-02-03,Maven Toys Ciudad de Mexico 4
+13,Gamer Headphones,Electronics,15,5,2026-02-02,Maven Toys Ciudad de Mexico 4
+14,Glass Marbles,Games,18,5,2026-01-09,Maven Toys Ciudad de Mexico 4
+15,Hot Wheels 5-Pack,Toys,19,5,2025-12-24,Maven Toys Ciudad de Mexico 4
+17,Kids Makeup Kit,Art & Crafts,4,5,2026-01-30,Maven Toys Ciudad de Mexico 4
+18,Lego Bricks,Toys,14,5,2026-01-18,Maven Toys Ciudad de Mexico 4
+19,Magic Sand,Art & Crafts,75,22,2026-02-11,Maven Toys Ciudad de Mexico 4
+21,Mini Ping Pong Set,Sports & Outdoors,14,5,2026-02-04,Maven Toys Ciudad de Mexico 4
+23,Mr. Potatohead,Toys,16,5,2026-02-10,Maven Toys Ciudad de Mexico 4
+24,Nerf Gun,Sports & Outdoors,26,7,2026-02-18,Maven Toys Ciudad de Mexico 4
+25,PlayDoh Can,Art & Crafts,57,17,2025-12-28,Maven Toys Ciudad de Mexico 4
+26,PlayDoh Playset,Art & Crafts,14,5,2026-02-16,Maven Toys Ciudad de Mexico 4
+27,PlayDoh Toolkit,Art & Crafts,14,5,2026-01-25,Maven Toys Ciudad de Mexico 4
+28,Playfoam,Art & Crafts,0,5,2026-02-04,Maven Toys Ciudad de Mexico 4
+29,Plush Pony,Toys,4,5,2026-02-16,Maven Toys Ciudad de Mexico 4
+30,Rubik's Cube,Games,36,10,2025-12-30,Maven Toys Ciudad de Mexico 4
+31,Splash Balls,Sports & Outdoors,6,5,2026-02-05,Maven Toys Ciudad de Mexico 4
+32,Supersoaker Water Gun,Sports & Outdoors,6,5,2025-12-04,Maven Toys Ciudad de Mexico 4
+33,Teddy Bear,Toys,7,5,2026-01-17,Maven Toys Ciudad de Mexico 4
+34,Toy Robot,Electronics,3,5,2026-02-04,Maven Toys Ciudad de Mexico 4
+1,Action Figure,Toys,11,5,2026-02-18,Maven Toys Guadalajara 4
+2,Animal Figures,Toys,3,5,2025-12-24,Maven Toys Guadalajara 4
+3,Barrel O' Slime,Art & Crafts,24,7,2026-01-23,Maven Toys Guadalajara 4
+6,Colorbuds,Electronics,65,19,2026-02-05,Maven Toys Guadalajara 4
+7,Dart Gun,Sports & Outdoors,15,5,2026-02-15,Maven Toys Guadalajara 4
+8,Deck Of Cards,Games,74,22,2026-01-20,Maven Toys Guadalajara 4
+9,Dino Egg,Toys,22,6,2026-01-20,Maven Toys Guadalajara 4
+10,Dinosaur Figures,Toys,71,21,2025-12-24,Maven Toys Guadalajara 4
+11,Etch A Sketch,Art & Crafts,12,5,2026-01-25,Maven Toys Guadalajara 4
+12,Foam Disk Launcher,Sports & Outdoors,13,5,2026-02-05,Maven Toys Guadalajara 4
+13,Gamer Headphones,Electronics,6,5,2025-11-28,Maven Toys Guadalajara 4
+14,Glass Marbles,Games,29,8,2026-01-25,Maven Toys Guadalajara 4
+15,Hot Wheels 5-Pack,Toys,6,5,2026-01-31,Maven Toys Guadalajara 4
+17,Kids Makeup Kit,Art & Crafts,40,12,2026-01-01,Maven Toys Guadalajara 4
+18,Lego Bricks,Toys,21,6,2025-12-31,Maven Toys Guadalajara 4
+19,Magic Sand,Art & Crafts,58,17,2025-12-07,Maven Toys Guadalajara 4
+21,Mini Ping Pong Set,Sports & Outdoors,2,5,2025-12-24,Maven Toys Guadalajara 4
+23,Mr. Potatohead,Toys,23,6,2026-01-25,Maven Toys Guadalajara 4
+24,Nerf Gun,Sports & Outdoors,10,5,2026-02-04,Maven Toys Guadalajara 4
+25,PlayDoh Can,Art & Crafts,37,11,2026-01-26,Maven Toys Guadalajara 4
+26,PlayDoh Playset,Art & Crafts,14,5,2025-12-22,Maven Toys Guadalajara 4
+27,PlayDoh Toolkit,Art & Crafts,25,7,2026-02-02,Maven Toys Guadalajara 4
+28,Playfoam,Art & Crafts,1,5,2026-02-18,Maven Toys Guadalajara 4
+29,Plush Pony,Toys,3,5,2026-01-25,Maven Toys Guadalajara 4
+30,Rubik's Cube,Games,9,5,2025-12-30,Maven Toys Guadalajara 4
+31,Splash Balls,Sports & Outdoors,13,5,2026-01-23,Maven Toys Guadalajara 4
+32,Supersoaker Water Gun,Sports & Outdoors,8,5,2026-01-11,Maven Toys Guadalajara 4
+33,Teddy Bear,Toys,11,5,2026-02-15,Maven Toys Guadalajara 4
+34,Toy Robot,Electronics,24,7,2026-01-18,Maven Toys Guadalajara 4
+1,Action Figure,Toys,11,5,2026-02-05,Maven Toys Monterrey 4
+2,Animal Figures,Toys,15,5,2026-01-26,Maven Toys Monterrey 4
+3,Barrel O' Slime,Art & Crafts,74,22,2026-01-27,Maven Toys Monterrey 4
+6,Colorbuds,Electronics,11,5,2026-01-20,Maven Toys Monterrey 4
+7,Dart Gun,Sports & Outdoors,4,5,2025-12-21,Maven Toys Monterrey 4
+8,Deck Of Cards,Games,70,21,2026-02-08,Maven Toys Monterrey 4
+9,Dino Egg,Toys,6,5,2025-11-01,Maven Toys Monterrey 4
+10,Dinosaur Figures,Toys,20,6,2026-01-29,Maven Toys Monterrey 4
+11,Etch A Sketch,Art & Crafts,10,5,2026-01-30,Maven Toys Monterrey 4
+12,Foam Disk Launcher,Sports & Outdoors,5,5,2026-02-07,Maven Toys Monterrey 4
+13,Gamer Headphones,Electronics,15,5,2026-01-21,Maven Toys Monterrey 4
+14,Glass Marbles,Games,11,5,2026-02-10,Maven Toys Monterrey 4
+15,Hot Wheels 5-Pack,Toys,3,5,2026-02-02,Maven Toys Monterrey 4
+17,Kids Makeup Kit,Art & Crafts,8,5,2026-02-18,Maven Toys Monterrey 4
+18,Lego Bricks,Toys,12,5,2026-01-27,Maven Toys Monterrey 4
+19,Magic Sand,Art & Crafts,68,20,2026-02-07,Maven Toys Monterrey 4
+21,Mini Ping Pong Set,Sports & Outdoors,25,7,2025-11-05,Maven Toys Monterrey 4
+23,Mr. Potatohead,Toys,29,8,2026-01-11,Maven Toys Monterrey 4
+24,Nerf Gun,Sports & Outdoors,24,7,2026-01-30,Maven Toys Monterrey 4
+25,PlayDoh Can,Art & Crafts,14,5,2026-02-11,Maven Toys Monterrey 4
+26,PlayDoh Playset,Art & Crafts,23,6,2025-11-13,Maven Toys Monterrey 4
+27,PlayDoh Toolkit,Art & Crafts,36,10,2026-01-21,Maven Toys Monterrey 4
+28,Playfoam,Art & Crafts,4,5,2026-01-27,Maven Toys Monterrey 4
+29,Plush Pony,Toys,10,5,2026-01-22,Maven Toys Monterrey 4
+30,Rubik's Cube,Games,36,10,2026-02-07,Maven Toys Monterrey 4
+31,Splash Balls,Sports & Outdoors,48,14,2026-01-28,Maven Toys Monterrey 4
+32,Supersoaker Water Gun,Sports & Outdoors,6,5,2026-01-26,Maven Toys Monterrey 4
+33,Teddy Bear,Toys,13,5,2026-01-27,Maven Toys Monterrey 4
+34,Toy Robot,Electronics,3,5,2025-12-13,Maven Toys Monterrey 4
+1,Action Figure,Toys,3,5,2026-02-13,Maven Toys Saltillo 2
+2,Animal Figures,Toys,23,6,2026-01-02,Maven Toys Saltillo 2
+3,Barrel O' Slime,Art & Crafts,35,10,2026-02-07,Maven Toys Saltillo 2
+4,Chutes & Ladders,Games,15,5,2026-01-23,Maven Toys Saltillo 2
+5,Classic Dominoes,Games,9,5,2026-01-22,Maven Toys Saltillo 2
+6,Colorbuds,Electronics,6,5,2026-01-25,Maven Toys Saltillo 2
+7,Dart Gun,Sports & Outdoors,28,8,2026-02-02,Maven Toys Saltillo 2
+8,Deck Of Cards,Games,100,30,2026-02-05,Maven Toys Saltillo 2
+9,Dino Egg,Toys,13,5,2026-02-06,Maven Toys Saltillo 2
+10,Dinosaur Figures,Toys,52,15,2026-02-02,Maven Toys Saltillo 2
+11,Etch A Sketch,Art & Crafts,6,5,2026-02-13,Maven Toys Saltillo 2
+12,Foam Disk Launcher,Sports & Outdoors,1,5,2026-01-03,Maven Toys Saltillo 2
+13,Gamer Headphones,Electronics,56,16,2026-02-08,Maven Toys Saltillo 2
+14,Glass Marbles,Games,11,5,2026-01-19,Maven Toys Saltillo 2
+15,Hot Wheels 5-Pack,Toys,3,5,2026-01-29,Maven Toys Saltillo 2
+16,Jenga,Games,5,5,2026-01-20,Maven Toys Saltillo 2
+17,Kids Makeup Kit,Art & Crafts,9,5,2026-01-28,Maven Toys Saltillo 2
+18,Lego Bricks,Toys,10,5,2025-12-12,Maven Toys Saltillo 2
+19,Magic Sand,Art & Crafts,59,17,2026-01-03,Maven Toys Saltillo 2
+20,Mini Basketball Hoop,Sports & Outdoors,10,5,2026-01-26,Maven Toys Saltillo 2
+21,Mini Ping Pong Set,Sports & Outdoors,8,5,2026-01-23,Maven Toys Saltillo 2
+22,Monopoly,Games,2,5,2026-02-10,Maven Toys Saltillo 2
+23,Mr. Potatohead,Toys,1,5,2026-02-08,Maven Toys Saltillo 2
+24,Nerf Gun,Sports & Outdoors,40,12,2026-02-08,Maven Toys Saltillo 2
+25,PlayDoh Can,Art & Crafts,23,6,2026-02-05,Maven Toys Saltillo 2
+26,PlayDoh Playset,Art & Crafts,2,5,2026-02-11,Maven Toys Saltillo 2
+27,PlayDoh Toolkit,Art & Crafts,17,5,2026-02-07,Maven Toys Saltillo 2
+28,Playfoam,Art & Crafts,1,5,2025-12-22,Maven Toys Saltillo 2
+29,Plush Pony,Toys,20,6,2026-01-08,Maven Toys Saltillo 2
+30,Rubik's Cube,Games,49,14,2026-02-18,Maven Toys Saltillo 2
+31,Splash Balls,Sports & Outdoors,41,12,2026-01-13,Maven Toys Saltillo 2
+32,Supersoaker Water Gun,Sports & Outdoors,7,5,2025-12-16,Maven Toys Saltillo 2
+33,Teddy Bear,Toys,0,5,2026-01-23,Maven Toys Saltillo 2
+34,Toy Robot,Electronics,39,11,2026-01-20,Maven Toys Saltillo 2
+35,Uno Card Game,Games,3,5,2026-01-27,Maven Toys Saltillo 2
+1,Action Figure,Toys,30,9,2026-01-30,Maven Toys Culiacan 1
+2,Animal Figures,Toys,0,5,2026-02-17,Maven Toys Culiacan 1
+3,Barrel O' Slime,Art & Crafts,14,5,2026-02-18,Maven Toys Culiacan 1
+4,Chutes & Ladders,Games,19,5,2026-02-01,Maven Toys Culiacan 1
+5,Classic Dominoes,Games,13,5,2026-02-04,Maven Toys Culiacan 1
+6,Colorbuds,Electronics,23,6,2026-01-30,Maven Toys Culiacan 1
+7,Dart Gun,Sports & Outdoors,24,7,2025-12-09,Maven Toys Culiacan 1
+8,Deck Of Cards,Games,77,23,2026-02-04,Maven Toys Culiacan 1
+9,Dino Egg,Toys,25,7,2026-01-18,Maven Toys Culiacan 1
+10,Dinosaur Figures,Toys,36,10,2026-02-10,Maven Toys Culiacan 1
+11,Etch A Sketch,Art & Crafts,18,5,2026-01-31,Maven Toys Culiacan 1
+12,Foam Disk Launcher,Sports & Outdoors,14,5,2026-02-09,Maven Toys Culiacan 1
+13,Gamer Headphones,Electronics,18,5,2026-01-31,Maven Toys Culiacan 1
+14,Glass Marbles,Games,37,11,2025-10-25,Maven Toys Culiacan 1
+15,Hot Wheels 5-Pack,Toys,0,5,2026-02-16,Maven Toys Culiacan 1
+16,Jenga,Games,1,5,2025-12-24,Maven Toys Culiacan 1
+17,Kids Makeup Kit,Art & Crafts,9,5,2025-12-22,Maven Toys Culiacan 1
+18,Lego Bricks,Toys,36,10,2026-02-03,Maven Toys Culiacan 1
+19,Magic Sand,Art & Crafts,48,14,2025-12-19,Maven Toys Culiacan 1
+20,Mini Basketball Hoop,Sports & Outdoors,13,5,2026-01-20,Maven Toys Culiacan 1
+21,Mini Ping Pong Set,Sports & Outdoors,37,11,2026-02-08,Maven Toys Culiacan 1
+22,Monopoly,Games,8,5,2026-02-06,Maven Toys Culiacan 1
+23,Mr. Potatohead,Toys,18,5,2026-02-14,Maven Toys Culiacan 1
+24,Nerf Gun,Sports & Outdoors,23,6,2026-02-02,Maven Toys Culiacan 1
+25,PlayDoh Can,Art & Crafts,23,6,2026-01-25,Maven Toys Culiacan 1
+26,PlayDoh Playset,Art & Crafts,19,5,2025-12-26,Maven Toys Culiacan 1
+27,PlayDoh Toolkit,Art & Crafts,32,9,2026-01-29,Maven Toys Culiacan 1
+28,Playfoam,Art & Crafts,10,5,2026-02-01,Maven Toys Culiacan 1
+29,Plush Pony,Toys,12,5,2026-02-06,Maven Toys Culiacan 1
+30,Rubik's Cube,Games,3,5,2026-01-29,Maven Toys Culiacan 1
+31,Splash Balls,Sports & Outdoors,51,15,2025-12-21,Maven Toys Culiacan 1
+32,Supersoaker Water Gun,Sports & Outdoors,11,5,2026-02-17,Maven Toys Culiacan 1
+33,Teddy Bear,Toys,15,5,2026-02-16,Maven Toys Culiacan 1
+34,Toy Robot,Electronics,2,5,2026-01-05,Maven Toys Culiacan 1
+35,Uno Card Game,Games,19,5,2025-12-28,Maven Toys Culiacan 1
+1,Action Figure,Toys,18,5,2026-02-03,Maven Toys Guanajuato 3
+2,Animal Figures,Toys,49,14,2026-01-23,Maven Toys Guanajuato 3
+3,Barrel O' Slime,Art & Crafts,22,6,2026-02-15,Maven Toys Guanajuato 3
+4,Chutes & Ladders,Games,16,5,2026-01-26,Maven Toys Guanajuato 3
+5,Classic Dominoes,Games,3,5,2026-01-26,Maven Toys Guanajuato 3
+6,Colorbuds,Electronics,27,8,2026-02-12,Maven Toys Guanajuato 3
+7,Dart Gun,Sports & Outdoors,13,5,2026-01-26,Maven Toys Guanajuato 3
+8,Deck Of Cards,Games,51,15,2026-01-05,Maven Toys Guanajuato 3
+9,Dino Egg,Toys,7,5,2026-01-21,Maven Toys Guanajuato 3
+10,Dinosaur Figures,Toys,34,10,2026-02-01,Maven Toys Guanajuato 3
+11,Etch A Sketch,Art & Crafts,20,6,2026-02-08,Maven Toys Guanajuato 3
+12,Foam Disk Launcher,Sports & Outdoors,0,5,2026-01-23,Maven Toys Guanajuato 3
+13,Gamer Headphones,Electronics,15,5,2026-02-02,Maven Toys Guanajuato 3
+14,Glass Marbles,Games,32,9,2026-02-14,Maven Toys Guanajuato 3
+15,Hot Wheels 5-Pack,Toys,16,5,2026-02-03,Maven Toys Guanajuato 3
+16,Jenga,Games,5,5,2026-02-07,Maven Toys Guanajuato 3
+17,Kids Makeup Kit,Art & Crafts,6,5,2026-02-15,Maven Toys Guanajuato 3
+18,Lego Bricks,Toys,51,15,2026-02-01,Maven Toys Guanajuato 3
+19,Magic Sand,Art & Crafts,40,12,2026-01-26,Maven Toys Guanajuato 3
+20,Mini Basketball Hoop,Sports & Outdoors,17,5,2025-12-18,Maven Toys Guanajuato 3
+21,Mini Ping Pong Set,Sports & Outdoors,36,10,2025-12-17,Maven Toys Guanajuato 3
+22,Monopoly,Games,1,5,2026-02-05,Maven Toys Guanajuato 3
+23,Mr. Potatohead,Toys,23,6,2026-01-23,Maven Toys Guanajuato 3
+24,Nerf Gun,Sports & Outdoors,10,5,2026-02-01,Maven Toys Guanajuato 3
+25,PlayDoh Can,Art & Crafts,34,10,2026-01-21,Maven Toys Guanajuato 3
+26,PlayDoh Playset,Art & Crafts,9,5,2026-01-20,Maven Toys Guanajuato 3
+27,PlayDoh Toolkit,Art & Crafts,14,5,2026-01-24,Maven Toys Guanajuato 3
+28,Playfoam,Art & Crafts,0,5,2026-02-09,Maven Toys Guanajuato 3
+29,Plush Pony,Toys,15,5,2026-02-16,Maven Toys Guanajuato 3
+30,Rubik's Cube,Games,4,5,2026-01-16,Maven Toys Guanajuato 3
+31,Splash Balls,Sports & Outdoors,18,5,2025-12-12,Maven Toys Guanajuato 3
+32,Supersoaker Water Gun,Sports & Outdoors,9,5,2025-12-08,Maven Toys Guanajuato 3
+33,Teddy Bear,Toys,1,5,2026-01-20,Maven Toys Guanajuato 3
+34,Toy Robot,Electronics,17,5,2026-02-06,Maven Toys Guanajuato 3
+35,Uno Card Game,Games,8,5,2025-11-29,Maven Toys Guanajuato 3
